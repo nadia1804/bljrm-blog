@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "0029ac8cffcc4287a0dc1d4e05aae990"
+        "md5": "ebf2910bb0b7f5e739918fc04b783dc0"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "873008100a81188dc2c362bc060cf6ae"
+        "md5": "e391a87963e8bcebba0476b58ddbf8b3"
     },
     {
         "path": "assets",
@@ -92,17 +92,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "70afb791b8e320b2070cc3e31952a89d"
+        "md5": "5bca9e484611b05e4842d9a8cbda27f9"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "6d170e75041849b16246fdda47df5dde"
+        "md5": "ac0f51fc4b2c16e217a18e5f19d8f838"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1921bca1c22f35519e8990df73de693b"
+        "md5": "ee08a9abd0895f1c9fa1da06493d8ce0"
     },
     {
         "path": "kategori",
@@ -117,12 +117,12 @@
     {
         "path": "/kategori/banjar/index.html",
         "type": "file",
-        "md5": "afbcfa1e58733788b4649da94547f18c"
+        "md5": "273d902a8ef8170292b94544ccd23522"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "97405683475dad34a313ea424bab04d0"
+        "md5": "20175aa0c7d58dfda793738315e7ba08"
     },
     {
         "path": "media",
@@ -203,41 +203,6 @@
         "path": "media/posts",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "media/posts/1",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/1/contoh-pantun-banjar-belajarium.png",
-        "type": "file",
-        "md5": "3c56c74983a9b2347728ba3d5b920aa4"
-    },
-    {
-        "path": "media/posts/1/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/1/responsive/contoh-pantun-banjar-belajarium-md.webp",
-        "type": "file",
-        "md5": "86c8b0f67ef30bcb136b49459871b57f"
-    },
-    {
-        "path": "/media/posts/1/responsive/contoh-pantun-banjar-belajarium-sm.webp",
-        "type": "file",
-        "md5": "394983b2a78877a44cd5975a7a78d038"
-    },
-    {
-        "path": "/media/posts/1/responsive/contoh-pantun-banjar-belajarium-xl.webp",
-        "type": "file",
-        "md5": "86c8b0f67ef30bcb136b49459871b57f"
-    },
-    {
-        "path": "/media/posts/1/responsive/contoh-pantun-banjar-belajarium-xs.webp",
-        "type": "file",
-        "md5": "2d1586ad2a6b1350bf84a5b8b4211bec"
     },
     {
         "path": "media/posts/2",
@@ -322,12 +287,22 @@
     {
         "path": "pantun-banjar.html",
         "type": "file",
-        "md5": "c0d797983d8aaf1a46ade7e5c1fba820"
+        "md5": "1595124920a2abf41cc5e8a2245745d1"
     },
     {
         "path": "penulis",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "penulis/belajarium-admin",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penulis/belajarium-admin/index.html",
+        "type": "file",
+        "md5": "9bb9df16051fec9967465635192c6282"
     },
     {
         "path": "penulis/deddy-hidayat",
@@ -337,7 +312,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "4c10b7d1c9cda07f5985d4fdef44d172"
+        "md5": "9444164c949aeba93d4a7a8dc01fea70"
     },
     {
         "path": "robots.txt",
@@ -347,11 +322,16 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "154241d4c5fa07f84b0667caa3fd2115"
+        "md5": "432a7374ffd3fab371189a394000e6e1"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "term-of-services.html",
+        "type": "file",
+        "md5": "80d2d0ca504f482f810dcdba56f06b0a"
     }
 ]
