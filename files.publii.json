@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "37f82250a8ea1677aac72f1e1cb065b1"
+        "md5": "0029ac8cffcc4287a0dc1d4e05aae990"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "434a709da97bf4f9a703ca169e216ac2"
+        "md5": "873008100a81188dc2c362bc060cf6ae"
     },
     {
         "path": "assets",
@@ -102,7 +102,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1f70ea56f8870af6ac1ac9e99fd802fd"
+        "md5": "1921bca1c22f35519e8990df73de693b"
     },
     {
         "path": "kategori",
@@ -117,12 +117,12 @@
     {
         "path": "/kategori/banjar/index.html",
         "type": "file",
-        "md5": "d90e8f9f92e7201afacb1423c13621e1"
+        "md5": "afbcfa1e58733788b4649da94547f18c"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "18cb524d7a26a2b833a407c5849c18bb"
+        "md5": "97405683475dad34a313ea424bab04d0"
     },
     {
         "path": "media",
@@ -322,7 +322,7 @@
     {
         "path": "pantun-banjar.html",
         "type": "file",
-        "md5": "5d5b76329b4a62c1782ceaaa08d5aba2"
+        "md5": "a6d4783591f30bed8c85b3843eef5282"
     },
     {
         "path": "penulis",
@@ -337,7 +337,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "062f5f4cf6cfd2988ce3c8708bfecd76"
+        "md5": "4c10b7d1c9cda07f5985d4fdef44d172"
     },
     {
         "path": "robots.txt",
