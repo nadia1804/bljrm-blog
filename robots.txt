@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://belajarium.id/sitemap.xml

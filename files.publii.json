@@ -1,0 +1,357 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "37f82250a8ea1677aac72f1e1cb065b1"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "434a709da97bf4f9a703ca169e216ac2"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "02826e60c8e393ddf3e98ce0b47abac6"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "ca005a6da1f19f4d89519b19879110df"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/comfortaa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/comfortaa/comfortaa.woff2",
+        "type": "file",
+        "md5": "63d75cc20afaf780536c287b3555ada1"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "bd19e1795647692f2fe6f2249792391f"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "8680a80b5605dca08d4eef4416e29e9f"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "aa1ff23a8df2377a60f48f5b4d433ab5"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "c8df4110c4ebd38fbb95093ee7b4e317"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "70afb791b8e320b2070cc3e31952a89d"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "6d170e75041849b16246fdda47df5dde"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "1f70ea56f8870af6ac1ac9e99fd802fd"
+    },
+    {
+        "path": "kategori",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "kategori/banjar",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kategori/banjar/index.html",
+        "type": "file",
+        "md5": "d90e8f9f92e7201afacb1423c13621e1"
+    },
+    {
+        "path": "/kategori/index.html",
+        "type": "file",
+        "md5": "18cb524d7a26a2b833a407c5849c18bb"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins/coreLightboxGallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.esm.min.js",
+        "type": "file",
+        "md5": "b505ee081119c5be142e0dbac4762f99"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.umd.min.js",
+        "type": "file",
+        "md5": "96c2a65aa83c62a874ddcd85cbdf69fb"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.esm.min.js",
+        "type": "file",
+        "md5": "97ca880233a37aa88ecd4e06b53c45bd"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.min.css",
+        "type": "file",
+        "md5": "bbfcfcfc7aff4620107555b1d668227d"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.umd.min.js",
+        "type": "file",
+        "md5": "80574f1ec4486c3613d668756ad7e600"
+    },
+    {
+        "path": "media/plugins/lucideIcons",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/lucideIcons/lucide-sprite.svg",
+        "type": "file",
+        "md5": "d0d0716f1353d2ba6978cc79959b6c84"
+    },
+    {
+        "path": "media/plugins/pagePrefetching",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/pagePrefetching/quicklink.umd.js",
+        "type": "file",
+        "md5": "9bf2c039e22db3d0962eb567cbe5954d"
+    },
+    {
+        "path": "media/plugins/simpleLightboxGallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/simpleLightboxGallery/venobox.min.css",
+        "type": "file",
+        "md5": "930f3a77f1401f46699d08c218ad3969"
+    },
+    {
+        "path": "/media/plugins/simpleLightboxGallery/venobox.min.js",
+        "type": "file",
+        "md5": "5142acef8a10cb59560be26621ce59d5"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/contoh-pantun-banjar-belajarium.png",
+        "type": "file",
+        "md5": "3c56c74983a9b2347728ba3d5b920aa4"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/contoh-pantun-banjar-belajarium-md.webp",
+        "type": "file",
+        "md5": "86c8b0f67ef30bcb136b49459871b57f"
+    },
+    {
+        "path": "/media/posts/1/responsive/contoh-pantun-banjar-belajarium-sm.webp",
+        "type": "file",
+        "md5": "394983b2a78877a44cd5975a7a78d038"
+    },
+    {
+        "path": "/media/posts/1/responsive/contoh-pantun-banjar-belajarium-xl.webp",
+        "type": "file",
+        "md5": "86c8b0f67ef30bcb136b49459871b57f"
+    },
+    {
+        "path": "/media/posts/1/responsive/contoh-pantun-banjar-belajarium-xs.webp",
+        "type": "file",
+        "md5": "2d1586ad2a6b1350bf84a5b8b4211bec"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/belajarium-1920.png",
+        "type": "file",
+        "md5": "e9fb24dc04e8ccad9bfe03723399ee9c"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/belajarium-1920-md.webp",
+        "type": "file",
+        "md5": "009c199ca3875e1459ef04730c4028e7"
+    },
+    {
+        "path": "/media/posts/2/responsive/belajarium-1920-sm.webp",
+        "type": "file",
+        "md5": "2a19d5c9184e77a51da99dc3efd483d7"
+    },
+    {
+        "path": "/media/posts/2/responsive/belajarium-1920-xl.webp",
+        "type": "file",
+        "md5": "d2ae50b31db68ba697e6f8f779849df8"
+    },
+    {
+        "path": "/media/posts/2/responsive/belajarium-1920-xs.webp",
+        "type": "file",
+        "md5": "85658a52e04261a5504f068c447e71c7"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/belajarium-deddy-hidayat.png",
+        "type": "file",
+        "md5": "81c0d33d17c01427bd0a67c5df572795"
+    },
+    {
+        "path": "/media/website/belajarium-fallback-2.png",
+        "type": "file",
+        "md5": "e9fb24dc04e8ccad9bfe03723399ee9c"
+    },
+    {
+        "path": "/media/website/belajarium-logo-header.png",
+        "type": "file",
+        "md5": "88e9015af07e7713ebb801317befc921"
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "aa392c13feb886c01bb85fba6b10effc"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/belajarium-deddy-hidayat-xs.webp",
+        "type": "file",
+        "md5": "e4ad8d068e2574a6b17d8890edf3a11b"
+    },
+    {
+        "path": "/media/website/responsive/belajarium-fallback-2-xs.webp",
+        "type": "file",
+        "md5": "acc16e0c74d3d50203841e76e1dfecb8"
+    },
+    {
+        "path": "/media/website/responsive/belajarium-logo-header-xs.webp",
+        "type": "file",
+        "md5": "55a36227043d417887f3f472787cb9e7"
+    },
+    {
+        "path": "pantun-banjar.html",
+        "type": "file",
+        "md5": "5d5b76329b4a62c1782ceaaa08d5aba2"
+    },
+    {
+        "path": "penulis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "penulis/deddy-hidayat",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penulis/deddy-hidayat/index.html",
+        "type": "file",
+        "md5": "062f5f4cf6cfd2988ce3c8708bfecd76"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "c92c7f03a79679e4fdf63a8865aea99d"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "154241d4c5fa07f84b0667caa3fd2115"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    }
+]
