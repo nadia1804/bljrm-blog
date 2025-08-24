@@ -92,17 +92,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "5bca9e484611b05e4842d9a8cbda27f9"
+        "md5": "a164eb96ca0d5798b766779300798fd3"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ac0f51fc4b2c16e217a18e5f19d8f838"
+        "md5": "86f9715bcbdebde875288a47cd9ffe94"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ee08a9abd0895f1c9fa1da06493d8ce0"
+        "md5": "a59cb6c70552d2cc4dac8a1d42b5328c"
     },
     {
         "path": "kategori",
@@ -117,12 +117,42 @@
     {
         "path": "/kategori/banjar/index.html",
         "type": "file",
-        "md5": "273d902a8ef8170292b94544ccd23522"
+        "md5": "23da55ec47f75163e21211804247f5da"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "20175aa0c7d58dfda793738315e7ba08"
+        "md5": "78d6330c990321e261620bd7f4fa76ef"
+    },
+    {
+        "path": "kategori/kelas-6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kategori/kelas-6/index.html",
+        "type": "file",
+        "md5": "f2bd661d1bca0c9ac3112fa83bd4bcb4"
+    },
+    {
+        "path": "kategori/muatan-lokal",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kategori/muatan-lokal/index.html",
+        "type": "file",
+        "md5": "d3a64c307f7e1a03b5de808b03f19597"
+    },
+    {
+        "path": "kategori/semester-1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kategori/semester-1/index.html",
+        "type": "file",
+        "md5": "678590d4710cf7f345233e441656bfdf"
     },
     {
         "path": "media",
@@ -287,7 +317,7 @@
     {
         "path": "pantun-banjar.html",
         "type": "file",
-        "md5": "1595124920a2abf41cc5e8a2245745d1"
+        "md5": "a4722f441b5b98478f90d9f5e09f92f4"
     },
     {
         "path": "penulis",
@@ -302,7 +332,7 @@
     {
         "path": "/penulis/belajarium-admin/index.html",
         "type": "file",
-        "md5": "9bb9df16051fec9967465635192c6282"
+        "md5": "6f4a5dc95852028912a08db6b9140552"
     },
     {
         "path": "penulis/deddy-hidayat",
@@ -312,7 +342,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "9444164c949aeba93d4a7a8dc01fea70"
+        "md5": "a0884b7b6ee1842e4a9c3b3c22557751"
     },
     {
         "path": "robots.txt",
@@ -322,7 +352,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "432a7374ffd3fab371189a394000e6e1"
+        "md5": "a7b77ded898c81c94b4322ec1ab73cdc"
     },
     {
         "path": "sitemap.xsl",

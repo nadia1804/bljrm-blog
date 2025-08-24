@@ -3,7 +3,7 @@
     <title>Belajarium</title>
     <link href="https://belajarium.id/feed.xml" rel="self" />
     <link href="https://belajarium.id" />
-    <updated>2025-08-24T22:05:04+08:00</updated>
+    <updated>2025-08-24T23:40:23+08:00</updated>
     <author>
         <name>Deddy Hidayat</name>
     </author>
@@ -16,6 +16,9 @@
         </author>
         <link href="https://belajarium.id/pantun-banjar.html"/>
         <id>https://belajarium.id/pantun-banjar.html</id>
+            <category term="semester 1"/>
+            <category term="muatan lokal"/>
+            <category term="kelas 6"/>
             <category term="banjar"/>
 
         <updated>2025-08-19T16:57:12+08:00</updated>
