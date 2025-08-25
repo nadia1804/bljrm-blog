@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "7eba37819c25f8b50210fa8ed03b0bf4"
+        "md5": "65b170d41aba63641155954f2e8cb354"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "603da0a623d93ef40c0c69a1c4fabeff"
+        "md5": "d9068f0086022982aca0461efb24b3ca"
     },
     {
         "path": "assets",
@@ -90,11 +90,6 @@
         "md5": "c8df4110c4ebd38fbb95093ee7b4e317"
     },
     {
-        "path": "contact.html",
-        "type": "file",
-        "md5": "cead07e52167380344579f000e54ccac"
-    },
-    {
         "path": "feed.json",
         "type": "file",
         "md5": "a164eb96ca0d5798b766779300798fd3"
@@ -107,7 +102,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "595669fd627c7f6d4fa150999a266631"
+        "md5": "e4bdb8bfdeec3b8db553ad8fb68c4967"
     },
     {
         "path": "kategori",
@@ -122,12 +117,12 @@
     {
         "path": "/kategori/banjar/index.html",
         "type": "file",
-        "md5": "6a6c964e5a71a1109780dbd8dcc509ce"
+        "md5": "626301ed9d27982105cc8fc2269f8ce5"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "d325b3ccfc328b0ec56816245530cd57"
+        "md5": "f295ab7a7c2d741adbb9175e0a538f5e"
     },
     {
         "path": "kategori/kelas-6",
@@ -137,7 +132,7 @@
     {
         "path": "/kategori/kelas-6/index.html",
         "type": "file",
-        "md5": "d9e4c43334f0e7128b3dc5279b3624bc"
+        "md5": "8b1b447cdcb142e5137c5178642b4d0f"
     },
     {
         "path": "kategori/muatan-lokal",
@@ -147,7 +142,7 @@
     {
         "path": "/kategori/muatan-lokal/index.html",
         "type": "file",
-        "md5": "11d41c01b8161e96fd6bafce3db6169f"
+        "md5": "f3b7531ec39b9c706b60396b14187503"
     },
     {
         "path": "kategori/semester-1",
@@ -157,7 +152,7 @@
     {
         "path": "/kategori/semester-1/index.html",
         "type": "file",
-        "md5": "fb6c8cc394ac75cf1c6fc14378e9bedc"
+        "md5": "bbd57b76535571df63896ce5d8aa841f"
     },
     {
         "path": "media",
@@ -322,7 +317,7 @@
     {
         "path": "pantun-banjar.html",
         "type": "file",
-        "md5": "071dc00906912a54b3518246f281b50b"
+        "md5": "90460c5deb2eb76e37dae2335099a6e6"
     },
     {
         "path": "penulis",
@@ -337,7 +332,7 @@
     {
         "path": "/penulis/belajarium-admin/index.html",
         "type": "file",
-        "md5": "92f7d472450fe0b4ca65b5986b9ab4ad"
+        "md5": "767efc611cebe9e24f66aa41f3624c71"
     },
     {
         "path": "penulis/deddy-hidayat",
@@ -347,7 +342,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "dbebadff52f276a47c0c7e7af4e35481"
+        "md5": "883597eb654eafbd4be5c509ff92b4db"
     },
     {
         "path": "robots.txt",
@@ -357,7 +352,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "40fe567f8eb50cf5681816ba6e77d365"
+        "md5": "a7b77ded898c81c94b4322ec1ab73cdc"
     },
     {
         "path": "sitemap.xsl",
@@ -367,6 +362,6 @@
     {
         "path": "term-of-services.html",
         "type": "file",
-        "md5": "337f194aee09d1bc2bfc41840a1fd0b9"
+        "md5": "31a2c34a2b4e1ce773a81356ac97aa22"
     }
 ]
