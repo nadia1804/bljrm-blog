@@ -92,12 +92,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "25afe81242a49835a7380de0dbe843e4"
+        "md5": "378dac81801f1fb45c9a9878e0495549"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "197428173508c23b87b424eaabcdd723"
+        "md5": "f7160a5c59644798959b2210227cdd9c"
     },
     {
         "path": "halaman",
@@ -122,7 +122,7 @@
     {
         "path": "juknis-bos-2025.html",
         "type": "file",
-        "md5": "5f9accbffdb81b87d6407b0383bf7f25"
+        "md5": "2d1d51b627a4da9f02228ad1ef4d3eda"
     },
     {
         "path": "kategori",
@@ -487,7 +487,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ab9904fe92ebc111645294aed85d9096"
+        "md5": "b5fad2b7bd949389503901d08b13e0a1"
     },
     {
         "path": "sitemap.xsl",
