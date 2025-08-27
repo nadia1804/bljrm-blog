@@ -92,12 +92,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "bd84800b257da9cec29f53dd0d31c3e9"
+        "md5": "4bbca93995270b2d34ed234b9369d98e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "63915004b8a44064d5c8b99503d6ba3f"
+        "md5": "a83e230ead04eff331ba21e91f79c447"
     },
     {
         "path": "halaman",
@@ -112,12 +112,12 @@
     {
         "path": "/halaman/2/index.html",
         "type": "file",
-        "md5": "5f9a731211ecc3c26ff11f4d96487df5"
+        "md5": "f6120cc1e45746bf7a446188d4b3b038"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "83fa2b1a0da0c855e477304e2832867e"
+        "md5": "b639bddecd6863f4dcc15c6e3e96977b"
     },
     {
         "path": "kategori",
@@ -137,7 +137,7 @@
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "cc1186bc550d1156fa590093a31b6425"
+        "md5": "4397e10cd4e2a99dafdf554020bcf60a"
     },
     {
         "path": "kategori/kelas-6",
@@ -165,9 +165,24 @@
         "md5": false
     },
     {
+        "path": "kategori/ppg/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "kategori/ppg/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kategori/ppg/halaman/2/index.html",
+        "type": "file",
+        "md5": "02871011bdb9c98b21e8df3372646bf8"
+    },
+    {
         "path": "/kategori/ppg/index.html",
         "type": "file",
-        "md5": "04cdce84b17594f9a063bee3b9d713f2"
+        "md5": "b945a88f042ed24e0aef71517c96c586"
     },
     {
         "path": "kategori/semester-1",
@@ -185,9 +200,29 @@
         "md5": false
     },
     {
+        "path": "kategori/soal-ppg/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "kategori/soal-ppg/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kategori/soal-ppg/halaman/2/index.html",
+        "type": "file",
+        "md5": "e4997f54f577d3da8609f20d1e117328"
+    },
+    {
         "path": "/kategori/soal-ppg/index.html",
         "type": "file",
-        "md5": "dd2a6d7ca93db8e0a405b892694b10f3"
+        "md5": "aec9dfab8bacbcafb1de2ed5f34dc59e"
+    },
+    {
+        "path": "kumpulan-soal-ppg-2025.html",
+        "type": "file",
+        "md5": "ed6be4dcfb73778ff8496a8a39d0cf3f"
     },
     {
         "path": "media",
@@ -305,6 +340,41 @@
         "md5": "85658a52e04261a5504f068c447e71c7"
     },
     {
+        "path": "media/posts/22",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/belajarium-soal-ppg-2025.png",
+        "type": "file",
+        "md5": "b65c035e8bf0f080ec6174c7542acc3a"
+    },
+    {
+        "path": "media/posts/22/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/responsive/belajarium-soal-ppg-2025-md.webp",
+        "type": "file",
+        "md5": "4790e6e24f137d38c6b6aa4325e01ba5"
+    },
+    {
+        "path": "/media/posts/22/responsive/belajarium-soal-ppg-2025-sm.webp",
+        "type": "file",
+        "md5": "4790e6e24f137d38c6b6aa4325e01ba5"
+    },
+    {
+        "path": "/media/posts/22/responsive/belajarium-soal-ppg-2025-xl.webp",
+        "type": "file",
+        "md5": "4790e6e24f137d38c6b6aa4325e01ba5"
+    },
+    {
+        "path": "/media/posts/22/responsive/belajarium-soal-ppg-2025-xs.webp",
+        "type": "file",
+        "md5": "2078824fe6c2a7a1d06d252ef0a90821"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -372,7 +442,7 @@
     {
         "path": "pantun-banjar.html",
         "type": "file",
-        "md5": "67582e37013f1ea12d58c02e5c03af1d"
+        "md5": "7e5ff5e78f827130e940cf1bd5b59af3"
     },
     {
         "path": "penulis",
@@ -405,9 +475,24 @@
         "md5": false
     },
     {
+        "path": "penulis/vina/halaman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "penulis/vina/halaman/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/penulis/vina/halaman/2/index.html",
+        "type": "file",
+        "md5": "701dbc46bf6c5cde5a1b7e4e395250d3"
+    },
+    {
         "path": "/penulis/vina/index.html",
         "type": "file",
-        "md5": "530a7759c1c0e524a7eb1ae4771613d0"
+        "md5": "4bada3c895909605efa292b6d20c82db"
     },
     {
         "path": "robots.txt",
@@ -417,7 +502,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "9e31a6ea06e5fad8a97750858c8e5f4a"
+        "md5": "1d1a5fb0f1c4a6cdfaa5fbac86f4e644"
     },
     {
         "path": "sitemap.xsl",
@@ -468,6 +553,21 @@
         "path": "soal-ppg-ubd.html",
         "type": "file",
         "md5": "a12723821f982a444e0c48d2d72f44bb"
+    },
+    {
+        "path": "soal-tryout-ppg-2025-bagian-1.html",
+        "type": "file",
+        "md5": "27b0974b741a846861c0ebcc5c39ce5f"
+    },
+    {
+        "path": "soal-tryout-ppg-2025-bagian-2.html",
+        "type": "file",
+        "md5": "eee0497f39d8a3f9dc29a05384654eaa"
+    },
+    {
+        "path": "soal-tryout-ppg-2025-bagian-3.html",
+        "type": "file",
+        "md5": "4effd4f299f416faafd6c65f62952098"
     },
     {
         "path": "soal-tryout-ppg-sejarah-bagian-1.html",
