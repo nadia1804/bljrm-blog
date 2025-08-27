@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "13af2f432e9989ab80b2b5f702cdff1d"
+        "md5": "71288fb9aabff6a262792e8f40b303a2"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "c9d367ce32ee659f508f158b97d3ccca"
+        "md5": "8375113df688c0a9f4e6598e16246db2"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "0ab0b7c912b046c353f88a6ec2c05c08"
+        "md5": "392756c175ec17f9b192c98da0682013"
     },
     {
         "path": "assets/dynamic",
@@ -92,12 +92,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "4bbca93995270b2d34ed234b9369d98e"
+        "md5": "25afe81242a49835a7380de0dbe843e4"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a83e230ead04eff331ba21e91f79c447"
+        "md5": "197428173508c23b87b424eaabcdd723"
     },
     {
         "path": "halaman",
@@ -112,12 +112,17 @@
     {
         "path": "/halaman/2/index.html",
         "type": "file",
-        "md5": "98c0b89c5f5c073483f6746894716c4c"
+        "md5": "3dbbeceab4d0a8cd5070210d260efa3d"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7e9b716300d2682fdd4f18e9e6d7cc0b"
+        "md5": "06ead0dd8cdf5710157c2784b545ee7a"
+    },
+    {
+        "path": "juknis-bos-2025.html",
+        "type": "file",
+        "md5": "5f9accbffdb81b87d6407b0383bf7f25"
     },
     {
         "path": "kategori",
@@ -132,12 +137,12 @@
     {
         "path": "/kategori/banjar/index.html",
         "type": "file",
-        "md5": "51e02c37ef52158c020aca72f5694979"
+        "md5": "7d69b1f8e3f9e7e029b1fd535f6d5ba1"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "ca00362808b03ec3a3b2374bf9866dfb"
+        "md5": "0f1b23592e0fe66929ac344ed9c01d45"
     },
     {
         "path": "kategori/kelas-6",
@@ -147,7 +152,7 @@
     {
         "path": "/kategori/kelas-6/index.html",
         "type": "file",
-        "md5": "10bb2c6976e4aed7769425b7947db7e8"
+        "md5": "8e680d31076138667249b464f8f045a6"
     },
     {
         "path": "kategori/muatan-lokal",
@@ -157,7 +162,7 @@
     {
         "path": "/kategori/muatan-lokal/index.html",
         "type": "file",
-        "md5": "ae5eb2bd2c49e085ec39b56992d21f0f"
+        "md5": "59331e215c54ac5261c1d02c306365eb"
     },
     {
         "path": "kategori/ppg",
@@ -165,24 +170,19 @@
         "md5": false
     },
     {
-        "path": "kategori/ppg/halaman",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "kategori/ppg/halaman/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/kategori/ppg/halaman/2/index.html",
-        "type": "file",
-        "md5": "bc960ae5e71673dfa79d7ba7077fdc34"
-    },
-    {
         "path": "/kategori/ppg/index.html",
         "type": "file",
-        "md5": "16d5fc4323ffd1a6882906adf24062db"
+        "md5": "7815487f92928e738b38faa78ec72fc4"
+    },
+    {
+        "path": "kategori/regulasi",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kategori/regulasi/index.html",
+        "type": "file",
+        "md5": "c7282b828a5c57ceb53634d25c076c4a"
     },
     {
         "path": "kategori/semester-1",
@@ -192,7 +192,7 @@
     {
         "path": "/kategori/semester-1/index.html",
         "type": "file",
-        "md5": "60c718e1b1c4ca776f039d9a8debc25d"
+        "md5": "5cf6cd4c154ab4e8c462283ac94ab5cd"
     },
     {
         "path": "kategori/soal-ppg",
@@ -200,29 +200,14 @@
         "md5": false
     },
     {
-        "path": "kategori/soal-ppg/halaman",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "kategori/soal-ppg/halaman/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/kategori/soal-ppg/halaman/2/index.html",
-        "type": "file",
-        "md5": "e2debc74994bff89e18cce13cff2426d"
-    },
-    {
         "path": "/kategori/soal-ppg/index.html",
         "type": "file",
-        "md5": "e788b340294a9a855afd4266644268de"
+        "md5": "0404121b69d758824c373f5176ea98b9"
     },
     {
         "path": "kumpulan-soal-ppg-2025.html",
         "type": "file",
-        "md5": "c6b85a99713d977cdac769cf276da20d"
+        "md5": "5130e690a0b95a9ed1acaa90123f8e26"
     },
     {
         "path": "media",
@@ -442,7 +427,7 @@
     {
         "path": "pantun-banjar.html",
         "type": "file",
-        "md5": "01b979d9d0629d32e0233412a4d93964"
+        "md5": "1adb98a2dada5740f4a055a330b7cdf2"
     },
     {
         "path": "penulis",
@@ -457,7 +442,7 @@
     {
         "path": "/penulis/belajarium-admin/index.html",
         "type": "file",
-        "md5": "15ca96b0a880ccd1e609afc819eb5bb9"
+        "md5": "dce588d27e1f970848089d804494667c"
     },
     {
         "path": "penulis/deddy-hidayat",
@@ -467,7 +452,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "252147d834f848f6174db9c517ee6d58"
+        "md5": "cdda778b827afa3f486de0067d1826db"
     },
     {
         "path": "penulis/vina",
@@ -487,12 +472,12 @@
     {
         "path": "/penulis/vina/halaman/2/index.html",
         "type": "file",
-        "md5": "75f5f30be4649f59ffc9cb7eeecfb592"
+        "md5": "2455eadd67fdc3d3aaa121514297a8f3"
     },
     {
         "path": "/penulis/vina/index.html",
         "type": "file",
-        "md5": "0f6a034b01e83e9b65073dee848a7beb"
+        "md5": "29e65824a3b5f667779dbeca5b8c919b"
     },
     {
         "path": "robots.txt",
@@ -502,7 +487,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "1d1a5fb0f1c4a6cdfaa5fbac86f4e644"
+        "md5": "ab9904fe92ebc111645294aed85d9096"
     },
     {
         "path": "sitemap.xsl",
@@ -512,81 +497,81 @@
     {
         "path": "soal-ppg-casel.html",
         "type": "file",
-        "md5": "541cc34dfce88ed483a728f86aaca1ad"
+        "md5": "0ab17abba1ad735d7fcf7e99021027bb"
     },
     {
         "path": "soal-ppg-crt.html",
         "type": "file",
-        "md5": "34d786af030b6b61cba37f8fb8854f47"
+        "md5": "0865210af1e54e65985f383605182deb"
     },
     {
         "path": "soal-ppg-diferensiasi-learning.html",
         "type": "file",
-        "md5": "276b94be2d200d2619b9a13e7a3ed0bc"
+        "md5": "e6710378ce506b8cb446bd21babf3818"
     },
     {
         "path": "soal-ppg-fppn.html",
         "type": "file",
-        "md5": "b2da3a69982d39d0ed235ef2881d5476"
+        "md5": "d3e8dec37877441df7e95bc16ecb916b"
     },
     {
         "path": "soal-ppg-guru-sebagai-teladan.html",
         "type": "file",
-        "md5": "f0383b8fd9f9b658709e3a2378f5c4be"
+        "md5": "5632af0b5570b49caed081a5fef99f34"
     },
     {
         "path": "soal-ppg-ppa.html",
         "type": "file",
-        "md5": "4c0115e2c3ae947a6c6b0074fd9c4fa5"
+        "md5": "3f3765934157effb93d70be81bf7601b"
     },
     {
         "path": "soal-ppg-pse.html",
         "type": "file",
-        "md5": "e9b08b433d7552ac7e99ab6c4a36aec1"
+        "md5": "6788456b58590da1c202e58e9d6bb5ff"
     },
     {
         "path": "soal-ppg-tarl.html",
         "type": "file",
-        "md5": "2e605f84992f30e7b64a0f6b561520c2"
+        "md5": "93dd30b10a407b3e360ff9fcab6cf84f"
     },
     {
         "path": "soal-ppg-ubd.html",
         "type": "file",
-        "md5": "23e43e596a6fbb9af328a1d692f31229"
+        "md5": "80318765c768cdb5fa0678fbf56cdaf1"
     },
     {
         "path": "soal-tryout-ppg-2025-bagian-1.html",
         "type": "file",
-        "md5": "be163ea87b0b7e7cdc9788f43d15011b"
+        "md5": "e58dd127ad60591dad2c11d57cacbdb7"
     },
     {
         "path": "soal-tryout-ppg-2025-bagian-2.html",
         "type": "file",
-        "md5": "77589f2134a6ddf6052a3f40279f0062"
+        "md5": "03732303e33e577d92fa900afcc0a681"
     },
     {
         "path": "soal-tryout-ppg-2025-bagian-3.html",
         "type": "file",
-        "md5": "1e4643e5d055da65d039f5743b570cf1"
+        "md5": "b4a30ce91cb69e03286187bebb84b046"
     },
     {
         "path": "soal-tryout-ppg-sejarah-bagian-1.html",
         "type": "file",
-        "md5": "a6b447b4e5e7d7c6275b81344a049142"
+        "md5": "d6a3a6ef49dd6ee769fd79536914aab5"
     },
     {
         "path": "soal-tryout-ppg-sejarah-bagian-2.html",
         "type": "file",
-        "md5": "bc0ae8186e8e38387cbe34720ab30d91"
+        "md5": "68bab131e3e73499ad9f3ae4d8a47d59"
     },
     {
         "path": "soal-tryout-ppg-sejarah-bagian-3.html",
         "type": "file",
-        "md5": "b5afdbc1afcc08f703a34196eaec6fec"
+        "md5": "0c9102e4c0f896a24165c1004ce7531a"
     },
     {
         "path": "term-of-services.html",
         "type": "file",
-        "md5": "16ec29c6f563166270ad8ea7c18d16f1"
+        "md5": "30f5ae3962c0b4e47049b17564f42151"
     }
 ]
