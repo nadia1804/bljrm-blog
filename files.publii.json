@@ -102,12 +102,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "77c4ae72366bcef44afa437444c25d2f"
+        "md5": "c003a6096eae6b8c67fd439cfcfe8475"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f646a12e100560013d57882696907401"
+        "md5": "ccd5fb4d1703aba3cfa36d41c320fd71"
     },
     {
         "path": "halaman",
@@ -122,12 +122,12 @@
     {
         "path": "/halaman/2/index.html",
         "type": "file",
-        "md5": "e9987ae4fb63b103719cde87eab28d8d"
+        "md5": "ec55af219ea9979a923b94fffcfc74e3"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "bce25db2c602defa574b50a932cd2698"
+        "md5": "80071e25f5d45f4038954a4d3cf5ba26"
     },
     {
         "path": "juknis-bos-2025.html",
@@ -385,6 +385,91 @@
         "md5": "2078824fe6c2a7a1d06d252ef0a90821"
     },
     {
+        "path": "media/posts/27",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/27/panduan-indexnow_Page1.png",
+        "type": "file",
+        "md5": "d4ce94d1fb9e19bbb03b60659f1277ae"
+    },
+    {
+        "path": "/media/posts/27/panduan-indexnow_Page10.png",
+        "type": "file",
+        "md5": "35072e77cff39fe2af3db3c4a7c3674d"
+    },
+    {
+        "path": "/media/posts/27/panduan-indexnow_Page4.png",
+        "type": "file",
+        "md5": "8f754b28334ef6f3240ebe6645c57181"
+    },
+    {
+        "path": "media/posts/27/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page1-md.webp",
+        "type": "file",
+        "md5": "0facf4edb9857903a4c2b354b024b758"
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page1-sm.webp",
+        "type": "file",
+        "md5": "eefd19308c7b410569ec2a91846a2ebe"
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page1-xl.webp",
+        "type": "file",
+        "md5": "859f37e2e498c2391451e2949afd46e9"
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page1-xs.webp",
+        "type": "file",
+        "md5": "3ca7d401c51f8fb74f3b904037519ea2"
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page10-md.webp",
+        "type": "file",
+        "md5": "1cd2aea86a07b24c7f51aa76244002f3"
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page10-sm.webp",
+        "type": "file",
+        "md5": "ac43130e4f8a69ab7ac9eae01ef19f4b"
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page10-xl.webp",
+        "type": "file",
+        "md5": "55b43a2b17861a7a961a19163e849922"
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page10-xs.webp",
+        "type": "file",
+        "md5": "2da17dd7d888a349e002f8e83cf5e1f3"
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page4-md.webp",
+        "type": "file",
+        "md5": "7aacd169ecbe2884d4d44faef950af23"
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page4-sm.webp",
+        "type": "file",
+        "md5": "3f63673eb3a010abf7b070dcac5df769"
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page4-xl.webp",
+        "type": "file",
+        "md5": "e61c83b194859b872f1f7e52dc6347e0"
+    },
+    {
+        "path": "/media/posts/27/responsive/panduan-indexnow_Page4-xs.webp",
+        "type": "file",
+        "md5": "5e974a4d70e9afaaeda627c57cf2f6ae"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -450,6 +535,11 @@
         "md5": "693d4e7a08dee6e455a784612e2b17b4"
     },
     {
+        "path": "panduan-indexnow.html",
+        "type": "file",
+        "md5": "d933212a0f0e4531fb1afd3524505453"
+    },
+    {
         "path": "pantun-banjar.html",
         "type": "file",
         "md5": "684ffacca6b541d1f696d560bbe160ea"
@@ -477,7 +567,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "b8fe170a3a87876a86f6e77ca8d3494e"
+        "md5": "b99c537e354b00230aba7244e1d1be49"
     },
     {
         "path": "penulis/vina",
@@ -512,7 +602,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "6452b8e91c62b2d0c82c5a7f6fc49c8e"
+        "md5": "79568b23afe776342538a2278a5ea40c"
     },
     {
         "path": "sitemap.xsl",

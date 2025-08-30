@@ -3,12 +3,109 @@
     <title>Belajarium</title>
     <link href="https://belajarium.id/feed.xml" rel="self" />
     <link href="https://belajarium.id" />
-    <updated>2025-08-30T21:28:15+08:00</updated>
+    <updated>2025-08-31T00:03:02+08:00</updated>
     <author>
         <name>Deddy Hidayat</name>
     </author>
     <id>https://belajarium.id</id>
 
+    <entry>
+        <title>Panduan IndexNow</title>
+        <author>
+            <name>Deddy Hidayat</name>
+        </author>
+        <link href="https://belajarium.id/panduan-indexnow.html"/>
+        <id>https://belajarium.id/panduan-indexnow.html</id>
+        <media:content url="https://belajarium.id/media/posts/27/panduan-indexnow_Page1.png" medium="image" />
+
+        <updated>2025-08-30T23:35:11+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://belajarium.id/media/posts/27/panduan-indexnow_Page1.png" alt="panduan IndexNow" />
+                    <p>Tutorial <span style="text-decoration: underline;"><strong>IndexNow</strong></span> untuk <strong>1x klik otomatis submit sitemap otomatis pada bing</strong>. </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://belajarium.id/media/posts/27/panduan-indexnow_Page1.png" class="type:primaryImage" alt="panduan IndexNow" /></p>
+                <p>Tutorial <span style="text-decoration: underline;"><strong>IndexNow</strong></span> untuk <strong>1x klik otomatis submit sitemap otomatis pada bing</strong>. </p>
+
+<div class="post__toc">
+<h3>Daftar isi</h3>
+<ul>
+<li><a href="#mcetoc_1j3tolkd8m">Langkah 1: Verifikasi Domain di Bing Webmaster</a></li>
+<li><a href="#mcetoc_1j3tpsca712h">Langkah 2: Generate API Key IndexNow</a></li>
+<li><a href="#mcetoc_1j3tpsca712i">Langkah 3: Upload File `.txt` ke Root Domain</a></li>
+<li><a href="#mcetoc_1j3tpsca712j">Langkah 4: Verifikasi File `.txt`</a></li>
+<li><a href="#mcetoc_1j3tpsca712k">Langkah 5: Buat script otomatis </a>
+<ul>
+<li><a href="#mcetoc_1j3tpsca712l">buat file 'indexnow.bat'</a></li>
+<li><a href="#mcetoc_1j3tpsca712m">Buat File 'indexnow-data.txt'</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1j3tpsca712n">Langkah 6: Jalankan Skrip</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1j3tolkd8m">Langkah 1: Verifikasi Domain di Bing Webmaster</h2>
+<ol>
+<li>Buka <a href="https://www.bing.com/webmasters" target="_blank"  class="extlink extlink-icon-11"  rel="nofollow noopener noreferrer">Bing Webmaster Tools</a></li>
+<li>Tambahkan dan verifikasi domain kamu</li>
+<li>Setelah domain terverifikasi, lanjut ke langkah berikutnya</li>
+</ol>
+<h2 id="mcetoc_1j3tpsca712h">Langkah 2: Generate API Key IndexNow</h2>
+<ol>
+<li>Buka halaman <a href="https://www.bing.com/indexnow/getstarted" target="_blank"  class="extlink extlink-icon-11"  rel="nofollow noopener noreferrer">IndexNow Get Started</a></li>
+<li>Klik tombol <strong>Generate API Key</strong></li>
+<li>Unduh file `.txt` yang berisi key tersebut</li>
+</ol>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://belajarium.id/media/posts/27//panduan-indexnow_Page4.png" alt="Donwload api IndexNow" width="1920" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-xs.webp 300w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-sm.webp 480w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-md.webp 768w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-xl.webp 1200w"></figure>
+<p class="msg msg--info"><svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> klik download pada Generate API Key, Klik tombol generate jika ingin mengganti API Key, abaikan point nomor 2 pada gambar</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">File yang didownload berupa ApiKey.txt seperti ini Contoh:</span></p>
+<p><code>a230e4ddd7dd480193bc9f2aebc4e162.txt</code></p>
+<p>Isi Apikey.txt seperti ini:<br><code>a230e4ddd7dd480193bc9f2aebc4e162</code></p>
+<h2 id="mcetoc_1j3tpsca712i">Langkah 3: Upload File `.txt` ke Root Domain</h2>
+<p>Upload file `.txt` ke root domain kamu, misalnya:<br><code>https://domainkamu.com/a230e4ddd7dd480193bc9f2aebc4e162.txt</code></p>
+<p class="msg msg--info"><svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> Apakah bisa untuk blogspot? sayangnya belum bisa. indexnow khusus website yang memiliki akses ke server</p>
+<h2 id="mcetoc_1j3tpsca712j">Langkah 4: Verifikasi File `.txt`</h2>
+<p>Cek file di browser:<br><code>https://domainkamu.com/a230e4ddd7dd480193bc9f2aebc4e162.txt</code></p>
+<p>jika berhasil maka muncul tulisan di browser :<br><code>a230e4ddd7dd480193bc9f2aebc4e162</code></p>
+<p>dan Cek Ping manual via terminal:<br><code>curl.exe -i "https://api.indexnow.org/indexnow?url=https://domainkamu.com/&amp;key=a230e4ddd7dd480193bc9f2aebc4e162"</code><br><br>hasil :<br>HTTP/1.1 200 OK<br>✅ Artinya situs kamu sudah siap menggunakan IndexNow.</p>
+<p class="msg msg--info"><svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> <span style="color: #02192b;">Cek Ping manual via terminal diatas khusus via CMD di windows. jika kamu menggunakan sistem operasi yang lain gunakan AI untuk membantu mu</span></p>
+<h2 id="mcetoc_1j3tpsca712k">Langkah 5: Buat script otomatis </h2>
+<p>agar lebih mudah melakukan IndexNow kita akan lakukan secara otomatis, kita perlu membuat 2 buah file bernama :</p>
+<ol>
+<li>indexnow.bat</li>
+<li>indexnow-data.txt</li>
+</ol>
+<p class="msg msg--info"><svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> <strong>indexnow.bat</strong> berfungsi sebagai script melakukan ping otomatis, sedangkan <strong>indexnow-data.txt</strong> berfungsi sebagai database sitemap domain yang akan di ping.</p>
+<h3 id="mcetoc_1j3tpsca712l">buat file 'indexnow.bat'</h3>
+<p>Buat file bernama `indexnow.bat` dengan isi script berikut:<br><br></p>
+<pre><code>@echo off</code><br><code>setlocal enabledelayedexpansion</code><br><br><code>:: API Key IndexNow terbaru</code><br><code>set "KEY=a230e4ddd7dd480993bc9f2aebc4e162"</code><br><br><code>:: File daftar URL</code><br><code>set "URLFILE=C:\Users\Administrator\Documents\belajarium\indexnow-data.txt"</code><br><br><code>:: Cek apakah file URL ada</code><br><code>if not exist "%URLFILE%" (</code><br><code>    echo File %URLFILE% tidak ditemukan.</code><br><code>    pause</code><br><code>    exit /b</code><br><code>)</code><br><br><code>echo Mengirim ping IndexNow untuk setiap URL...</code><br><br><code>for /f "usebackq tokens=* delims=" %%A in ("%URLFILE%") do (</code><br><code>    set "URL=%%A"</code><br><code>    set "ENDPOINT=https://api.indexnow.org/indexnow?url=!URL!&amp;key=%KEY%"</code><br><code>    echo.</code><br><code>    echo 🔗 Ping: !URL!</code><br><code>    curl -s "!ENDPOINT!"</code><br><code>)</code><br><br><code>echo.</code><br><code>echo ✅ Semua ping selesai.</code><br><code>pause</code></pre>
+<p>perhatikan bagian ini :</p>
+<p>kamu harus ganti dengan API Key milik mu :</p>
+<p><code>:: API Key IndexNow terbaru</code><br><code>set "KEY=a230e4ddd7dd480193bc9f2aebc4e162"<br></code></p>
+<p>dan lokasi file indexnow-data.txt yang kamu buat juga perlu di ganti :</p>
+<p><code>:: File daftar URL</code><br><code>set "URLFILE=C:\Users\Administrator\Documents\belajarium\indexnow-data.txt"</code></p>
+<p>ganti dari sini : <code>C:\Users\Administrator\Documents\belajarium\indexnow-data.txt</code></p>
+<h3 id="mcetoc_1j3tpsca712m">Buat File 'indexnow-data.txt'</h3>
+<p>buat file dengan nama indexnow-data.txt dengan isinya adalah daftar sitemap kamu <code>tanpa dot (titik)</code> :</p>
+<ul>
+<li>https://domainkamu.com/</li>
+<li>https://domainkamu.com/post1</li>
+<li>https://domainkamu.com/post2</li>
+<li>https://domainkamu.com/post3</li>
+</ul>
+<h2 id="mcetoc_1j3tpsca712n">Langkah 6: Jalankan Skrip</h2>
+<ul>
+<li>Klik dua kali `indexnow.bat`</li>
+<li>Biarkan skrip berjalan dan mengirim ping ke IndexNow</li>
+<li>Jika berhasil, URL kamu akan mulai muncul di dashboard Bing Webmaster Tools</li>
+</ul>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://belajarium.id/media/posts/27//panduan-indexnow_Page10.png" alt="indexnow yang berhasil akan muncul di bing dashboard" width="1920" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page10-xs.webp 300w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page10-sm.webp 480w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page10-md.webp 768w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page10-xl.webp 1200w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kalender pendidikan 2025-2026</title>
         <author>
@@ -4062,657 +4159,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   <p>
     <a href="https://belajarium.id/soal-tryout-ppg-sejarah-bagian-3.html">Lanjut kebagian 3&nbsp;(klik disini)</a>
-  </p>
-
-  <p>
-    <a href="https://belajarium.id/kumpulan-soal-ppg-2025.html">baca juga : kumpulan soal latihan dan tryout PPG 2025 dan kunci jawaban</a>
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>soal Tryout PPG Sejarah - bagian 1</title>
-        <author>
-            <name>Vina</name>
-        </author>
-        <link href="https://belajarium.id/soal-tryout-ppg-sejarah-bagian-1.html"/>
-        <id>https://belajarium.id/soal-tryout-ppg-sejarah-bagian-1.html</id>
-            <category term="Soal PPG"/>
-            <category term="PPG"/>
-
-        <updated>2025-08-26T22:00:36+08:00</updated>
-            <summary>
-                <![CDATA[
-                    
-  <p>
-    Soal Tryout PPG <u><b>2025 Sejarah</b></u>. disajikan dalam format interaktif dengan kunci jawabannya.&nbsp;Bagian 1<br>
-  </p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Soal Tryout PPG <u><b>2025 Sejarah</b></u>. disajikan dalam format interaktif dengan kunci jawabannya.&nbsp;Bagian 1<br>
-  </p>
-
-
-    <h2 id="soal-tryout-ppg-sejarah-bagian-1">
-      soal Tryout PPG Sejarah - bagian 1
-    </h2>
-<div><div class="msg msg--info">
-<svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> halaman ini berisi <b>soal interaktif</b>, anda bisa klik pilihan a, b, c, d atau e untuk <b>menampilkan kunci jawaban</b>. untuk melakukan pencarian cepat tekan <b>CTRL+F</b> kemudian tulis "kata" yang ingin dicari.
-</div>
-<br>
-<div class="msg msg--info">
-<svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> soal ini kami bagi menjadi 3 bagian agar mudah di akses
-</div>
-<br>
-</div>
-<div><div class="soal-container-main">
-        <!-- Soal 1: Single Choice -->
-        <div id="quiz-1" class="soal-quiz-section">
-            <div class="soal soal-text-lg soal-text-gray-700">
-                <p>Seorang guru sejarah <strong>memulai pelajaran</strong> dengan menunjukkan sebuah <strong>video singkat</strong> tentang kehidupan pada masa <strong>kerajaan Majapahit</strong>. <strong>Tujuan utama kegiatan</strong> ini dalam <strong>konteks apersepsi</strong> adalah:</p>
-                <p class="soal-question-type">Jenis Soal: Pilihan Tunggal</p>
-            </div>
-            <div class="pilihan-soal" data-question-id="1" data-type="single">
-                <ul class="soal-space-y-3 soal-answer-list">
-                    <li class="soal-answer-item" data-value="A">A. Mengisi waktu awal pelajaran agar peserta didik tidak bosan.</li>
-                    <li class="soal-answer-item" data-value="B">B. Membuat peserta didik merasa santai sehingga guru bisa lebih fokus dalam mengajar.</li>
-                    <li class="soal-answer-item" data-value="C">C. Menghubungkan materi yang akan dipelajari dengan pengetahuan awal peserta didik.</li>
-                    <li class="soal-answer-item" data-value="D">D. Menguji pemahaman peserta didik tentang teknologi modern dan kuno pada masa Majapahit.</li>
-                    <li class="soal-answer-item" data-value="E">E. Menunjukkan keterampilan teknologi guru kepada peserta didik.</li>
-                </ul>
-            </div>
-            <div id="feedback-1" class="soal-feedback-box">
-                <!-- Umpan balik akan ditampilkan di sini -->
-            </div>
-        </div>
-
-        <!-- Soal 2: Single Choice -->
-        <div id="quiz-2" class="soal-quiz-section">
-            <div class="soal soal-text-lg soal-text-gray-700">
-                <p>Seorang guru sejarah mencoba menggunakan <strong>metode diskusi kelompok</strong> untuk mengkaji peristiwa penting dalam sejarah. Setelah beberapa sesi, sebagian peserta didik terlihat <strong>tidak aktif dan cenderung diam</strong>. Langkah terbaik yang bisa diambil guru tersebut untuk <strong>meningkatkan partisipasi peserta didik dalam diskusi</strong> adalah:</p>
-                <p class="soal-question-type">Jenis Soal: Pilihan Tunggal</p>
-            </div>
-            <div class="pilihan-soal" data-question-id="2" data-type="single">
-                <ul class="soal-space-y-3 soal-answer-list">
-                    <li class="soal-answer-item" data-value="A">A. Memberikan poin tambahan hanya kepada kelompok yang paling aktif.</li>
-                    <li class="soal-answer-item" data-value="B">B. Membagi kelompok berdasarkan minat peserta didik terhadap topik tertentu.</li>
-                    <li class="soal-answer-item" data-value="C">C. Mengurangi waktu diskusi dan meningkatkan waktu ceramah.</li>
-                    <li class="soal-answer-item" data-value="D">D. Mengganti metode diskusi dengan metode ceramah sepenuhnya.</li>
-                    <li class="soal-answer-item" data-value="E">E. Mengadakan kuis dadakan untuk menguji kesiapan peserta didik.</li>
-                </ul>
-            </div>
-            <div id="feedback-2" class="soal-feedback-box">
-                <!-- Umpan balik akan ditampilkan di sini -->
-            </div>
-        </div>
-
-        <!-- Soal 3: Single Choice -->
-        <div id="quiz-3" class="soal-quiz-section">
-            <div class="soal soal-text-lg soal-text-gray-700">
-                <p>Seorang <strong>guru sejarah</strong> menggunakan <strong>model pembelajaran</strong> <em>discovery learning</em> dengan <strong>meminta peserta didik mencari informasi</strong> tentang peristiwa Proklamasi Kemerdekaan Indonesia secara mandiri. <strong>Pengelolaan kelas yang paling tepat</strong> yang dilakukan guru tersebut untuk dapat <strong>mengevaluasi efektivitas model pembelajaran ini</strong> adalah:</p>
-                <p class="soal-question-type">Jenis Soal: Pilihan Tunggal</p>
-            </div>
-            <div class="pilihan-soal" data-question-id="3" data-type="single">
-                <ul class="soal-space-y-3 soal-answer-list">
-                    <li class="soal-answer-item" data-value="A">A. Menghitung jumlah referensi yang dibaca oleh peserta didik.</li>
-                    <li class="soal-answer-item" data-value="B">B. Mengamati peningkatan partisipasi peserta didik dalam diskusi kelas.</li>
-                    <li class="soal-answer-item" data-value="C">C. Menanyakan kepada peserta didik apakah mereka menyukai metode ini.</li>
-                    <li class="soal-answer-item" data-value="D">D. Melihat berapa banyak peserta didik yang menyelesaikan tugas tepat waktu.</li>
-                    <li class="soal-answer-item" data-value="E">E. Mengukur gaya belajar peserta didik di kelas sebelum pembelajaran berlangsung.</li>
-                </ul>
-            </div>
-            <div id="feedback-3" class="soal-feedback-box">
-                <!-- Umpan balik akan ditampilkan di sini -->
-            </div>
-        </div>
-
-        <!-- Soal 4: Single Choice -->
-        <div id="quiz-4" class="soal-quiz-section">
-            <div class="soal soal-text-lg soal-text-gray-700">
-                <p>Peserta didik diminta untuk <strong>membuat presentasi digital</strong> tentang perkembangan teknologi pada masa Perang Dunia II. <strong>Rubrik yang paling tepat</strong> yang dilakukan guru <strong>dalam mengevaluasi keberhasilan proyek ini</strong> dalam mengembangkan keterampilan teknis dan presentasi peserta didik adalah:</p>
-                <p class="soal-question-type">Jenis Soal: Pilihan Tunggal</p>
-            </div>
-            <div class="pilihan-soal" data-question-id="4" data-type="single">
-                <ul class="soal-space-y-3 soal-answer-list">
-                    <li class="soal-answer-item" data-value="A">A. Jumlah slide dalam presentasi yang dibuat oleh peserta didik dalam memaparkan hasil proyek.</li>
-                    <li class="soal-answer-item" data-value="B">B. Kualitas animasi dan efek visual yang digunakan oleh peserta didik dalam menyelesaikan proyek.</li>
-                    <li class="soal-answer-item" data-value="C">C. Reaksi teman sekelas terhadap presentasi dari proyek yang dibuat oleh peserta didik.</li>
-                    <li class="soal-answer-item" data-value="D">D. Waktu yang dihabiskan oleh peserta didik untuk menyelesaikan proyek dan membuat paparan presentasi.</li>
-                    <li class="soal-answer-item" data-value="E">E. Ketepatan dan kejelasan informasi yang disajikan serta kemampuan peserta didik dalam mempresentasikan hasil proyek.</li>
-                </ul>
-            </div>
-            <div id="feedback-4" class="soal-feedback-box">
-                <!-- Umpan balik akan ditampilkan di sini -->
-            </div>
-        </div>
-
-        <!-- Soal 5: Single Choice -->
-        <div id="quiz-5" class="soal-quiz-section">
-            <div class="soal soal-text-lg soal-text-gray-700">
-                <p>Guru meminta peserta didik untuk meneliti dan <strong>memberikan solusi</strong> atas masalah pertahanan dan keamanan dengan merefleksikan kasus yang dihadapi oleh kerajaan-kerajaan di Nusantara dalam menghadapi serangan asing pada abad ke-16. Kriteria yang terbaik oleh guru <strong>dalam mengevaluasi kemampuan</strong> peserta didik dalam mengembangkan solusi melalui <strong>pembelajaran berbasis masalah</strong> adalah:</p>
-                <p class="soal-question-type">Jenis Soal: Pilihan Tunggal</p>
-            </div>
-            <div class="pilihan-soal" data-question-id="5" data-type="single">
-                <ul class="soal-space-y-3 soal-answer-list">
-                    <li class="soal-answer-item" data-value="A">A. Relevansi dan efektivitas solusi yang diusulkan berdasarkan analisis sejarah yang dilakukan.</li>
-                    <li class="soal-answer-item" data-value="B">B. Panjang laporan solusi atas masalah yang dihadapi oleh kerajaan-kerajaan di Nusantara dalam menghadapi serangan asing pada abad ke-16 yang dibuat peserta didik.</li>
-                    <li class="soal-answer-item" data-value="C">C. Jumlah solusi yang diusulkan atas masalah yang dihadapi oleh kerajaan-kerajaan di Nusantara dalam menghadapi serangan asing pada abad ke-16 oleh peserta didik.</li>
-                    <li class="soal-answer-item" data-value="D">D. Kreativitas dalam presentasi solusi atas masalah yang dihadapi oleh kerajaan-kerajaan di Nusantara dalam menghadapi serangan asing pada abad ke-16.</li>
-                    <li class="soal-answer-item" data-value="E">E. Waktu yang dihabiskan peserta didik dalam penelitian tentang berbagai kerajaan di Nusantara pada abad ke-16.</li>
-                </ul>
-            </div>
-            <div id="feedback-5" class="soal-feedback-box">
-                <!-- Umpan balik akan ditampilkan di sini -->
-            </div>
-        </div>
-
-        <!-- Soal 6: Single Choice -->
-        <div id="quiz-6" class="soal-quiz-section">
-            <div class="soal soal-text-lg soal-text-gray-700">
-                <p>Guru sejarah menghadapi kesulitan dalam <strong>membuat peserta didik tertarik</strong> pada <strong>topik tentang masa kolonial di Indonesia</strong> karena peserta didik merasa topik ini terlalu jauh dari kehidupan mereka saat ini. <strong>Pendekatan terbaik</strong> yang dapat dilakukan guru untuk <strong>membuat topik ini lebih relevan dan menarik bagi peserta didik</strong> adalah:</p>
-                <p class="soal-question-type">Jenis Soal: Pilihan Tunggal</p>
-            </div>
-            <div class="pilihan-soal" data-question-id="6" data-type="single">
-                <ul class="soal-space-y-3 soal-answer-list">
-                    <li class="soal-answer-item" data-value="A">A. Mengadakan kunjungan virtual ke situs-situs sejarah kolonial.</li>
-                    <li class="soal-answer-item" data-value="B">B. Memberikan lebih banyak penjelasan teoritis tentang masa kolonial.</li>
-                    <li class="soal-answer-item" data-value="C">C. Menyuruh peserta didik membaca buku teks sejarah dengan lebih teliti.</li>
-                    <li class="soal-answer-item" data-value="D">D. Mengurangi fokus pada masa kolonial dan beralih ke topik lain yang lebih menarik.</li>
-                    <li class="soal-answer-item" data-value="E">E. Menambahkan lebih banyak tugas tertulis tentang masa kolonial.</li>
-                </ul>
-            </div>
-            <div id="feedback-6" class="soal-feedback-box">
-                <!-- Umpan balik akan ditampilkan di sini -->
-            </div>
-        </div>
-
-        <!-- Soal 7: Single Choice -->
-        <div id="quiz-7" class="soal-quiz-section">
-            <div class="soal soal-text-lg soal-text-gray-700">
-                <p>Guru merancang sebuah unit pembelajaran tentang Perang Dunia II dengan <strong>tujuan utama</strong> agar peserta didik dapat <strong>menganalisis dampak perang terhadap berbagai negara</strong>. <strong>Langkah pertama</strong> yang diambil adalah memberikan latar belakang sejarah tentang penyebab perang. <strong>Langkah selanjutnya</strong> adalah membagi peserta didik ke dalam kelompok untuk meneliti dampak perang di berbagai negara. <strong>Cara terbaik untuk mengevaluasi efektivitas desain pembelajaran ini</strong> adalah:</p>
-                <p class="soal-question-type">Jenis Soal: Pilihan Tunggal</p>
-            </div>
-            <div class="pilihan-soal" data-question-id="7" data-type="single">
-                <ul class="soal-space-y-3 soal-answer-list">
-                    <li class="soal-answer-item" data-value="A">A. Melihat apakah semua kelompok selesai tepat waktu dalam menganalisis dampak perang terhadap berbagai negara.</li>
-                    <li class="soal-answer-item" data-value="B">B. Menghitung jumlah sumber yang digunakan oleh setiap kelompok dalam menganalisis dampak perang terhadap berbagai negara.</li>
-                    <li class="soal-answer-item" data-value="C">C. Mengamati keaktifan peserta didik selama presentasi kelompok dalam menganalisis dampak perang terhadap berbagai negara.</li>
-                    <li class="soal-answer-item" data-value="D">D. Memeriksa panjang laporan tentang analisis dampak perang terhadap berbagai negara dalam Perang Dunia II yang dibuat oleh setiap kelompok.</li>
-                    <li class="soal-answer-item" data-value="E">E. Menilai kemampuan peserta didik dalam menghubungkan informasi latar belakang dengan analisis dampak perang yang mereka pelajari.</li>
-                </ul>
-            </div>
-            <div id="feedback-7" class="soal-feedback-box">
-                <!-- Umpan balik akan ditampilkan di sini -->
-            </div>
-        </div>
-
-        <!-- Soal 8: Multiple Choice -->
-        <div id="quiz-8" class="soal-quiz-section">
-            <div class="soal soal-text-lg soal-text-gray-700">
-                <p>Guru sejarah memberikan pembelajaran dengan <strong>tujuan pembelajaran</strong> "Melakukan <strong>mini riset</strong> melalui literatur berkaitan dengan penjajahan bangsa Eropa di Indonesia". Langkah-langkah desain pembelajaran yang <strong>berpusat pada peserta didik</strong> yang paling tepat adalah:</p>
-                <p class="soal-question-type">Jenis Soal: Pilihan Ganda</p>
-            </div>
-            <div class="pilihan-soal" data-question-id="8" data-type="multiple">
-                <ul class="soal-space-y-3 soal-answer-list">
-                    <li class="soal-answer-item" data-value="A">A. Peserta didik menuliskan rangkuman dari hasil film penjajahan Bangsa Eropa di Indonesia yang ditonton dan menyimpulkannya.</li>
-                    <li class="soal-answer-item" data-value="B">B. Peserta didik mengumpulkan artikel jurnal tentang penjajahan Bangsa Eropa di Indonesia kemudian melakukan kajian pustaka dan menuliskan dalam laporan.</li>
-                    <li class="soal-answer-item" data-value="C">C. Peserta didik datang ke perpustakaan dan mendengarkan penjelasan dari pustakawan tentang penjajahan Bangsa Eropa di Indonesia kemudian membuat resume.</li>
-                    <li class="soal-answer-item" data-value="D">D. Peserta didik melakukan diskusi tentang penelitian penjajahan Bangsa Barat di Indonesia kemudian mendiskusikan di depan kelas.</li>
-                    <li class="soal-answer-item" data-value="E">E. Peserta didik melakukan kunjungan lapangan ke tempat-tempat bersejarah kemudian menyimak penjelasan dari narasumber lapangan.</li>
-                </ul>
-                <button class="submit-multiple-btn soal-btn-custom-purple">Lihat Jawaban</button>
-            </div>
-            <div id="feedback-8" class="soal-feedback-box">
-                <!-- Umpan balik akan ditampilkan di sini -->
-            </div>
-        </div>
-
-        <!-- Soal 9: Multiple Choice -->
-        <div id="quiz-9" class="soal-quiz-section">
-            <div class="soal soal-text-lg soal-text-gray-700">
-                <p>Guru sejarah bermaksud melaksanakan pembelajaran yang relevan dengan <strong>kondisi di sekitar sekolah</strong> terkait konten kesejarahan dengan <strong>melibatkan peserta didik</strong>. <strong>Desain pembelajaran yang sesuai</strong> adalah:
-                <p class="soal-text-base-color soal-mt-4">Pilihlah jawaban yang benar dengan memberi tanda centang (Q)! Jawaban benar lebih dari satu.</p></p>
-                <p class="soal-question-type">Jenis Soal: Pilihan Ganda</p>
-            </div>
-            <div class="pilihan-soal" data-question-id="9" data-type="multiple">
-                <ul class="soal-space-y-3 soal-answer-list">
-                    <li class="soal-answer-item" data-value="A">A. Menerapkan pembelajaran berbasis proyek untuk mendorong peserta didik agar mampu memproduksi video animasi tentang organisasi-organisasi pergerakan nasional.</li>
-                    <li class="soal-answer-item" data-value="B">B. Merancang pembelajaran berbasis proyek dengan melakukan mini riset tentang peninggalan sejarah Hindu Budha di lingkungan sekitar.</li>
-                    <li class="soal-answer-item" data-value="C">C. Merancang pembelajaran berbasis masalah untuk mencari relevansi antara perjuangan diplomasi pasca kemerdekaan dengan permasalahan kekinian.</li>
-                    <li class="soal-answer-item" data-value="D">D. Menerapkan pembelajaran studi kasus dengan mendiskusikan peristiwa revolusi lokal yang terjadi di sekitar lingkungan tempat tinggal peserta didik.</li>
-                    <li class="soal-answer-item" data-value="E">E. Merancang pembelajaran dengan studi kasus tentang kebijakan-kebijakan Orde Reformasi dan pengaruhnya terhadap lingkungan masyarakat sekitar pada saat ini.</li>
-                </ul>
-                <button class="submit-multiple-btn soal-btn-custom-purple">Lihat Jawaban</button>
-            </div>
-            <div id="feedback-9" class="soal-feedback-box">
-                <!-- Umpan balik akan ditampilkan di sini -->
-            </div>
-        </div>
-
-        <!-- Soal 10: Single Choice -->
-        <div id="quiz-10" class="soal-quiz-section">
-            <div class="soal soal-text-lg soal-text-gray-700">
-                <p>Setelah menyelesaikan penelitian sejarah lokal, guru meminta peserta didik untuk membuat <strong>pameran di sekolah yang menampilkan hasil penelitian mereka</strong>. Pameran ini akan dihadiri oleh peserta didik, guru, dan orang tua. <strong>Tahap desain pembelajaran yang sedang digunakan oleh guru</strong> adalah:</p>
-                <p class="soal-question-type">Jenis Soal: Pilihan Tunggal</p>
-            </div>
-            <div class="pilihan-soal" data-question-id="10" data-type="single">
-                <ul class="soal-space-y-3 soal-answer-list">
-                    <li class="soal-answer-item" data-value="A">A. Pengantar teori melalui ceramah.</li>
-                    <li class="soal-answer-item" data-value="B">B. Aktivitas eksplorasi melalui observasi lapangan.</li>
-                    <li class="soal-answer-item" data-value="C">C. Evaluasi melalui proyek kreatif dan interaktif.</li>
-                    <li class="soal-answer-item" data-value="D">D. Diskusi dan analisis hasil penelitian di kelas.</li>
-                    <li class="soal-answer-item" data-value="E">E. Penyusunan laporan dan refleksi individu.</li>
-                </ul>
-            </div>
-            <div id="feedback-10" class="soal-feedback-box">
-                <!-- Umpan balik akan ditampilkan di sini -->
-            </div>
-        </div>
-
-        <!-- Soal 24: True/False (Tabel) - Keep existing -->
-        <div id="quiz-24" class="soal-quiz-section">
-            <div class="soal soal-text-lg soal-text-gray-700">
-                <p>Berikut adalah beberapa tujuan pembelajaran:
-                <ol class="soal-ordered-list">
-                    <li class="soal-ordered-list-item">Mengidentifikasi faktor-faktor yang mendorong keruntuhan Kerajaan Kutai, Kerajaan Tarumanegara, dan Kerajaan Sriwijaya.</li>
-                    <li class="soal-ordered-list-item">Mendeskripsikan perkembangan Kerajaan Kutai, Kerajaan Tarumanegara, dan Kerajaan Sriwijaya.</li>
-                    <li class="soal-ordered-list-item">Menjelaskan pengaruh letak geografis Kerajaan Kutai, Kerajaan Tarumanegara, dan Kerajaan Sriwijaya terhadap corak kehidupan di kerajaan tersebut.</li>
-                    <li class="soal-ordered-list-item">Mengidentifikasi faktor-faktor yang mendorong perkembangan Kerajaan Kutai, Kerajaan Tarumanegara, dan Kerajaan Sriwijaya.</li>
-                </ol>
-                <p class="soal-text-base-color soal-mt-4">Urutan penyusunan tujuan pembelajaran yang mencerminkan <strong>proses berpikir kronologis</strong> adalah:</p></p>
-                <p class="soal-question-type">Jenis Soal: Benar/Salah (Tabel)</p>
-            </div>
-            <div class="pilihan-soal" data-question-id="24" data-type="true/false-table">
-                <div class="soal-overflow-x-auto">
-                    <table class="soal-quiz-table">
-                        <thead>
-                            <tr>
-                                <th class="soal-table-header">Pernyataan</th>
-                                <th class="soal-table-header" style="text-align: center;">Pilihan Anda</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr class="soal-statement-row" data-statement-id="24-A">
-                                <td class="soal-table-cell">A. 4 2 1 3</td>
-                                <td class="soal-table-cell">
-                                    <div class="soal-flex soal-justify-center soal-space-x-2">
-                                        <button class="soal-tf-option" data-value="Benar">Benar</button>
-                                        <button class="soal-tf-option" data-value="Salah">Salah</button>
-                                    </div>
-                                </td>
-                            </tr>
-                            <tr class="soal-statement-row" data-statement-id="24-B">
-                                <td class="soal-table-cell">B. 2 4 3 1</td>
-                                <td class="soal-table-cell">
-                                    <div class="soal-flex soal-justify-center soal-space-x-2">
-                                        <button class="soal-tf-option" data-value="Benar">Benar</button>
-                                        <button class="soal-tf-option" data-value="Salah">Salah</button>
-                                    </div>
-                                </td>
-                            </tr>
-                            <tr class="soal-statement-row" data-statement-id="24-C">
-                                <td class="soal-table-cell">C. 1 2 4 3</td>
-                                <td class="soal-table-cell">
-                                    <div class="soal-flex soal-justify-center soal-space-x-2">
-                                        <button class="soal-tf-option" data-value="Benar">Benar</button>
-                                        <button class="soal-tf-option" data-value="Salah">Salah</button>
-                                    </div>
-                                </td>
-                            </tr>
-                            <tr class="soal-statement-row" data-statement-id="24-D">
-                                <td class="soal-table-cell">D. 3 2 1 4</td>
-                                <td class="soal-table-cell">
-                                    <div class="soal-flex soal-justify-center soal-space-x-2">
-                                        <button class="soal-tf-option" data-value="Benar">Benar</button>
-                                        <button class="soal-tf-option" data-value="Salah">Salah</button>
-                                    </div>
-                                </td>
-                            </tr>
-                            <tr class="soal-statement-row" data-statement-id="24-E">
-                                <td class="soal-table-cell">E. 1 2 3 4</td>
-                                <td class="soal-table-cell">
-                                    <div class="soal-flex soal-justify-center soal-space-x-2">
-                                        <button class="soal-tf-option" data-value="Benar">Benar</button>
-                                        <button class="soal-tf-option" data-value="Salah">Salah</button>
-                                    </div>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-                <button class="submit-tf-table-btn soal-btn-custom-purple">Lihat Jawaban</button>
-            </div>
-            <div id="feedback-24" class="soal-feedback-box">
-                <!-- Umpan balik akan ditampilkan di sini -->
-            </div>
-        </div>
-    </div>
-
-    <!-- Menghubungkan file JavaScript data kuis -->
-    <script>
-        // quizData.js
-        // Objek untuk menyimpan jawaban benar dan umpan balik untuk semua soal
-        const quizData = {
-            1: {
-                type: 'single',
-                correctAnswers: ['C'],
-                feedbackCorrect: "<strong>Tepat Sekali! Jawaban Anda Benar (C)!</strong> Apersepsi adalah kegiatan awal dalam pembelajaran yang bertujuan untuk menyiapkan mental dan menarik perhatian peserta didik agar siap menerima materi baru. Dalam konteks soal ini, guru menggunakan video singkat tentang kehidupan Majapahit sebagai apersepsi. Tujuan utamanya adalah membangkitkan minat peserta didik, mengaitkan materi baru (kerajaan Majapahit) dengan pengetahuan awal yang sudah mereka miliki, dan menciptakan jembatan antara pengalaman sebelumnya dengan materi yang akan diajarkan, sehingga mereka siap untuk pembelajaran yang lebih mendalam.",
-                feedbackIncorrect: {
-                    A: "<strong>Kurang Tepat.</strong> Mengisi waktu awal pelajaran agar peserta didik tidak bosan bukanlah tujuan utama apersepsi. Tujuan utamanya adalah menghubungkan materi dengan pengetahuan awal. Jawaban yang benar adalah C.",
-                    B: "<strong>Kurang Tepat.</strong> Membuat peserta didik merasa santai agar guru bisa lebih fokus mengajar bukanlah tujuan utama apersepsi. Tujuan utamanya adalah menghubungkan materi dengan pengetahuan awal. Jawaban yang benar adalah C.",
-                    D: "<strong>Kurang Tepat.</strong> Menguji pemahaman peserta didik tentang teknologi modern dan kuno bukan tujuan apersepsi. Tujuan utamanya adalah menghubungkan materi dengan pengetahuan awal. Jawaban yang benar adalah C.",
-                    E: "<strong>Kurang Tepat.</strong> Menunjukkan keterampilan teknologi guru kepada peserta didik bukanlah tujuan apersepsi. Tujuan utamanya adalah menghubungkan materi dengan pengetahuan awal. Jawaban yang benar adalah C."
-                }
-            },
-            2: {
-                type: 'single',
-                correctAnswers: ['B'],
-                feedbackCorrect: "Untuk meningkatkan partisipasi peserta didik dalam diskusi kelompok, penting bagi guru untuk menciptakan lingkungan yang mendukung dan relevan bagi mereka. Membagi kelompok berdasarkan minat peserta didik terhadap topik tertentu dapat secara signifikan meningkatkan keterlibatan karena mereka akan merasa lebih termotivasi dan memiliki pengetahuan awal yang lebih dalam mengenai topik yang diminati. Hal ini mendorong rasa kepemilikan dan tanggung jawab dalam kelompok, berbeda dengan memberikan poin tambahan hanya pada kelompok aktif (yang bisa mengecilkan kelompok lain), mengurangi atau mengganti metode diskusi (yang menghilangkan manfaat diskusi), atau mengadakan kuis dadakan (yang bisa menambah tekanan dan bukan memotivasi partisipasi diskusi).",
-                feedbackIncorrect: {
-                    A: "<strong>Ada beberapa yang perlu dikoreksi.</strong> Untuk meningkatkan partisipasi peserta didik dalam diskusi kelompok, penting bagi guru untuk menciptakan lingkungan yang mendukung dan relevan bagi mereka. <strong>Membagi kelompok berdasarkan minat peserta didik terhadap topik tertentu</strong> dapat secara signifikan meningkatkan keterlibatan karena mereka akan merasa lebih termotivasi dan memiliki pengetahuan awal yang lebih dalam mengenai topik yang diminati.",
-                    B: "<strong>Tepat Sekali! Jawaban Anda Benar!</strong> Untuk meningkatkan partisipasi peserta didik dalam diskusi kelompok, penting bagi guru untuk menciptakan lingkungan yang mendukung dan relevan bagi mereka. Membagi kelompok berdasarkan minat peserta didik terhadap topik tertentu dapat secara signifikan meningkatkan keterlibatan karena mereka akan merasa lebih termotivasi dan memiliki pengetahuan awal yang lebih dalam mengenai topik yang diminati. Hal ini mendorong rasa kepemilikan dan tanggung jawab dalam kelompok.",
-                    C: "<strong>Kurang Tepat.</strong> Mengurangi waktu diskusi dan meningkatkan waktu ceramah tidak akan meningkatkan partisipasi dalam diskusi. Tujuan utamanya adalah membuat diskusi lebih menarik. Jawaban yang benar adalah B.",
-                    D: "<strong>Kurang Tepat.</strong> Mengganti metode diskusi dengan ceramah sepenuhnya menghilangkan manfaat diskusi. Tujuan utamanya adalah membuat diskusi lebih menarik. Jawaban yang benar adalah B.",
-                    E: "<strong>Kurang Tepat.</strong> Mengadakan kuis dadakan bisa menambah tekanan dan tidak selalu memotivasi partisipasi diskusi. Jawaban yang benar adalah B."
-                }
-            },
-            3: {
-                type: 'single',
-                correctAnswers: ['B'],
-                feedbackCorrect: "Dalam <strong>model pembelajaran discovery learning</strong>, di mana peserta didik <strong>mencari informasi</strong> secara mandiri, <strong>efektivitas model pembelajaran ini</strong> paling baik <strong>dievaluasi</strong> melalui <strong>pengamatan partisipasi peserta didik dalam diskusi kelas</strong>. Hal ini karena diskusi mencerminkan sejauh mana peserta didik telah mengolah informasi yang mereka temukan dan mampu mengkonstruksi pengetahuannya sendiri. Peningkatan partisipasi menunjukkan bahwa mereka telah memahami materi dan mampu mengartikulasikan pemahaman tersebut. Pilihan lain kurang tepat karena: Menghitung jumlah referensi tidak secara langsung mengukur pemahaman atau konstruksi pengetahuan. Menanyakan kesukaan peserta didik lebih pada aspek afektif, bukan efektivitas pembelajaran. Penyelesaian tugas tepat waktu lebih mengukur kepatuhan, bukan kedalaman pemahaman. Mengukur gaya belajar dilakukan sebelum pembelajaran untuk perencanaan, bukan evaluasi efektivitas model pembelajaran.",
-                feedbackIncorrect: {
-                    A: "<strong>Kurang Tepat.</strong> Menghitung jumlah referensi tidak secara langsung mengukur pemahaman atau konstruksi pengetahuan. Jawaban yang benar adalah B.",
-                    B: "<strong>Tepat Sekali! Jawaban Anda Benar!</strong> Dalam <strong>model pembelajaran discovery learning</strong>, di mana peserta didik <strong>mencari informasi</strong> secara mandiri, <strong>efektivitas model pembelajaran ini</strong> paling baik <strong>dievaluasi</strong> melalui <strong>pengamatan partisipasi peserta didik dalam diskusi kelas</strong>.",
-                    C: "<strong>Kurang Tepat.</strong> Menanyakan kesukaan peserta didik lebih pada aspek afektif, bukan efektivitas pembelajaran. Jawaban yang benar adalah B.",
-                    D: "<strong>Kurang Tepat.</strong> Penyelesaian tugas tepat waktu lebih mengukur kepatuhan, bukan kedalaman pemahaman. Jawaban yang benar adalah B.",
-                    E: "<strong>Kurang Tepat.</strong> Mengukur gaya belajar dilakukan sebelum pembelajaran untuk perencanaan, bukan evaluasi efektivitas model pembelajaran. Jawaban yang benar adalah B."
-                }
-            },
-            4: {
-                type: 'single',
-                correctAnswers: ['E'],
-                feedbackCorrect: "Rubrik yang paling tepat untuk mengevaluasi keberhasilan proyek presentasi digital yang bertujuan mengembangkan keterampilan teknis dan presentasi adalah yang berfokus pada <strong>ketepatan dan kejelasan informasi</strong> serta <strong>kemampuan presentasi</strong>. Ini mencerminkan inti dari tujuan pembelajaran, yaitu penguasaan materi dan kemampuan mengkomunikasikannya secara efektif. Pilihan lain kurang tepat karena hanya mengukur aspek parsial atau tidak langsung terkait dengan tujuan utama proyek.",
-                feedbackIncorrect: {
-                    A: "<strong>Kurang Tepat.</strong> Jumlah slide tidak secara langsung mengukur kualitas informasi atau kemampuan presentasi. Jawaban yang benar adalah E.",
-                    B: "<strong>Kurang Tepat.</strong> Kualitas animasi dan efek visual adalah aspek teknis, tetapi bukan fokus utama evaluasi keberhasilan proyek dalam menyampaikan informasi. Jawaban yang benar adalah E.",
-                    C: "<strong>Kurang Tepat.</strong> Reaksi teman sekelas bisa subjektif dan tidak selalu mencerminkan kualitas informasi atau kemampuan presentasi. Jawaban yang benar adalah E.",
-                    D: "<strong>Kurang Tepat.</strong> Waktu yang dihabiskan lebih mengukur efisiensi, bukan kualitas hasil proyek. Jawaban yang benar adalah E.",
-                    E: "<strong>Tepat Sekali! Jawaban Anda Benar!</strong> Rubrik yang paling tepat untuk mengevaluasi keberhasilan proyek presentasi digital yang bertujuan mengembangkan keterampilan teknis dan presentasi adalah yang berfokus pada <strong>ketepatan dan kejelasan informasi</strong> serta <strong>kemampuan presentasi</strong>."
-                }
-            },
-            5: {
-                type: 'single',
-                correctAnswers: ['A'],
-                feedbackCorrect: "Dalam pembelajaran berbasis masalah yang meminta peserta didik untuk meneliti dan memberikan solusi, kriteria evaluasi terbaik adalah yang berfokus pada <strong>relevansi dan efektivitas solusi</strong> yang diusulkan, didukung oleh <strong>analisis sejarah yang mendalam</strong>. Ini menunjukkan kemampuan peserta didik dalam menerapkan pemahaman sejarah untuk memecahkan masalah, yang merupakan inti dari pembelajaran berbasis masalah. Pilihan lain seperti panjang laporan, jumlah solusi, kreativitas presentasi, atau waktu penelitian adalah aspek pendukung, namun bukan indikator utama keberhasilan dalam mengembangkan solusi.",
-                feedbackIncorrect: {
-                    A: "<strong>Tepat Sekali! Jawaban Anda Benar!</strong> Dalam pembelajaran berbasis masalah yang meminta peserta didik untuk meneliti dan memberikan solusi, kriteria evaluasi terbaik adalah yang berfokus pada <strong>relevansi dan efektivitas solusi</strong> yang diusulkan, didukung oleh <strong>analisis sejarah yang mendalam</strong>.",
-                    B: "<strong>Kurang Tepat.</strong> Panjang laporan tidak secara langsung mengukur kualitas solusi atau analisis sejarah. Jawaban yang benar adalah A.",
-                    C: "<strong>Kurang Tepat.</strong> Jumlah solusi tidak menjamin kualitas atau relevansinya. Jawaban yang benar adalah A.",
-                    D: "<strong>Kurang Tepat.</strong> Kreativitas dalam presentasi adalah aspek pendukung, bukan indikator utama kemampuan mengembangkan solusi. Jawaban yang benar adalah A.",
-                    E: "<strong>Kurang Tepat.</strong> Waktu yang dihabiskan lebih mengukur proses, bukan kualitas solusi. Jawaban yang benar adalah A."
-                }
-            },
-            6: {
-                type: 'single',
-                correctAnswers: ['A'],
-                feedbackCorrect: "Untuk <strong>membuat peserta didik tertarik</strong> pada <strong>topik tentang masa kolonial</strong>, <strong>pendekatan terbaik</strong> adalah dengan membuat materi terasa lebih nyata dan relevan. Mengadakan kunjungan virtual ke situs-situs sejarah kolonial dapat memberikan pengalaman langsung yang imersif, membantu peserta didik menghubungkan peristiwa masa lalu dengan lokasi fisik saat ini, sehingga topik menjadi lebih menarik dan tidak terasa jauh dari kehidupan mereka. Pilihan lain cenderung bersifat pasif atau mengalihkan fokus dari tujuan utama.",
-                feedbackIncorrect: {
-                    A: "<strong>Tepat Sekali! Jawaban Anda Benar!</strong> Untuk <strong>membuat peserta didik tertarik</strong> pada <strong>topik tentang masa kolonial</strong>, <strong>pendekatan terbaik</strong> adalah dengan membuat materi terasa lebih nyata dan relevan. <strong>Mengadakan kunjungan virtual ke situs-situs sejarah kolonial</strong> dapat memberikan pengalaman langsung yang imersif.",
-                    B: "<strong>Kurang Tepat.</strong> Memberikan lebih banyak penjelasan teoritis cenderung pasif dan mungkin tidak meningkatkan minat. Jawaban yang benar adalah A.",
-                    C: "<strong>Kurang Tepat.</strong> Menyuruh membaca buku teks lebih teliti bersifat pasif dan mungkin tidak mengatasi kurangnya minat. Jawaban yang benar adalah A.",
-                    D: "<strong>Kurang Tepat.</strong> Mengurangi fokus pada topik berarti menghindari masalah, bukan menyelesaikannya. Jawaban yang benar adalah A.",
-                    E: "<strong>Kurang Tepat.</strong> Menambahkan lebih banyak tugas tertulis cenderung pasif dan mungkin tidak meningkatkan minat. Jawaban yang benar adalah A."
-                }
-            },
-            7: {
-                type: 'single',
-                correctAnswers: ['E'],
-                feedbackCorrect: "Untuk mengevaluasi efektivitas desain pembelajaran yang bertujuan agar peserta didik dapat <strong>menganalisis dampak perang</strong>, <strong>cara terbaik</strong> adalah dengan <strong>menilai kemampuan peserta didik dalam menghubungkan informasi latar belakang dengan analisis dampak perang</strong> yang mereka pelajari. Ini secara langsung mengukur pemahaman mendalam dan kemampuan analisis sesuai tujuan pembelajaran. Pilihan lain lebih berfokus pada aspek prosedural atau kuantitatif, bukan pada kualitas pemahaman dan analisis peserta didik.",
-                feedbackIncorrect: {
-                    A: "<strong>Kurang Tepat.</strong> Selesai tepat waktu lebih mengukur manajemen waktu, bukan kualitas analisis. Jawaban yang benar adalah E.",
-                    B: "<strong>Kurang Tepat.</strong> Jumlah sumber tidak menjamin kualitas analisis atau pemahaman. Jawaban yang benar adalah E.",
-                    C: "<strong>Kurang Tepat.</strong> Keaktifan selama presentasi adalah indikator partisipasi, bukan langsung mengukur kemampuan analisis. Jawaban yang benar adalah E.",
-                    D: "<strong>Kurang Tepat.</strong> Panjang laporan tidak menjamin kedalaman analisis atau pemahaman. Jawaban yang benar adalah E.",
-                    E: "<strong>Tepat Sekali! Jawaban Anda Benar!</strong> Untuk mengevaluasi efektivitas desain pembelajaran yang bertujuan agar peserta didik dapat <strong>menganalisis dampak perang</strong>, <strong>cara terbaik</strong> adalah dengan <strong>menilai kemampuan peserta didik dalam menghubungkan informasi latar belakang dengan analisis dampak perang</strong> yang mereka pelajari."
-                }
-            },
-            8: {
-                type: 'multiple',
-                correctAnswers: ['B', 'C', 'D'], // Jawaban yang benar dari file: Q Peserta didik mengumpulkan artikel, Peserta didik datang ke perpustakaan, Peserta didik melakukan diskusi
-                feedbackCorrect: "<strong>Hebat! Jawaban Anda Benar!</strong> Langkah-langkah desain pembelajaran yang berpusat pada peserta didik untuk tujuan 'mini riset melalui literatur' harus menekankan pada pencarian dan pengolahan informasi dari sumber tertulis secara mandiri. Mengumpulkan artikel jurnal dan melakukan kajian pustaka adalah yang paling sesuai. Mendatangi perpustakaan dan membuat resume juga relevan karena melibatkan akses ke sumber informasi dan pengolahan data oleh peserta didik, meskipun mendengarkan penjelasan pustakawan bukan riset literatur langsung. Diskusi juga mendukung proses ini.",
-                feedbackIncorrect: "<strong>Ada beberapa yang perlu dikoreksi.</strong> Untuk tujuan 'mini riset melalui literatur', langkah yang paling tepat adalah <strong>Peserta didik mengumpulkan artikel jurnal, Peserta didik datang ke perpustakaan dan mendengarkan penjelasan, dan Peserta didik melakukan diskusi</strong>. Pilihan A (menulis rangkuman dari film) dan E (kunjungan lapangan) kurang berfokus pada riset literatur."
-            },
-            9: {
-                type: 'multiple',
-                correctAnswers: ['B', 'D', 'E'],
-                feedbackCorrect: "Desain pembelajaran yang relevan dengan kondisi sekitar sekolah dan melibatkan peserta didik sebaiknya berfokus pada pendekatan yang aktif dan kontekstual. Pembelajaran berbasis proyek (PjBL) dan berbasis masalah (PBL) sangat sesuai karena mendorong peserta didik untuk melakukan riset, menciptakan produk, atau memecahkan masalah yang berkaitan langsung dengan lingkungan mereka atau isu-isu relevan. Pilihan yang melibatkan produksi video animasi, mini riset peninggalan sejarah di lingkungan sekitar, dan mencari relevansi perjuangan diplomasi dengan masalah kekinian adalah contoh desain yang memberdayakan peserta didik untuk berinteraksi dengan konten sejarah secara mendalam dan relevan. Sementara itu, studi kasus juga baik, namun pilihan yang diberikan kurang menekankan pada keterlibatan langsung dengan lingkungan sekitar atau produksi karya.",
-                feedbackIncorrect: "<strong>Ada beberapa yang perlu dikoreksi.</strong> Desain pembelajaran yang relevan dengan kondisi sekitar sekolah dan melibatkan peserta didik sebaiknya berfokus pada pendekatan yang aktif dan kontekstual. Pilihan yang paling tepat adalah <strong>Merancang pembelajaran berbasis proyek dengan melakukan mini riset tentang peninggalan sejarah Hindu Budha di lingkungan sekitar</strong>, <strong>Menerapkan pembelajaran studi kasus dengan mendiskusikan peristiwa revolusi lokal yang terjadi di sekitar lingkungan tempat tinggal peserta didik</strong>, dan <strong>Merancang pembelajaran dengan studi kasus tentang kebijakan-kebijakan Orde Reformasi dan pengaruhnya terhadap lingkungan masyarakat sekitar pada saat ini</strong>."
-            },
-            10: {
-                type: 'single',
-                correctAnswers: ['C'],
-                feedbackCorrect: "Tahap desain pembelajaran di mana guru meminta peserta didik membuat pameran untuk menampilkan hasil penelitian mereka, yang akan dihadiri oleh berbagai pihak, menunjukkan bahwa guru sedang melakukan <strong>evaluasi melalui proyek kreatif dan interaktif</strong>. Pameran adalah bentuk penilaian yang memungkinkan peserta didik menunjukkan pemahaman mereka secara praktis dan interaktif, sekaligus melibatkan audiens yang lebih luas. Ini bukan lagi tahap pengantar, eksplorasi, diskusi awal, atau hanya penyusunan laporan, melainkan puncak dari proses pembelajaran yang bertujuan menilai hasil akhir.",
-                feedbackIncorrect: {
-                    A: "<strong>Kurang Tepat.</strong> Pengantar teori melalui ceramah adalah tahap awal pembelajaran, bukan evaluasi akhir proyek. Jawaban yang benar adalah C.",
-                    B: "<strong>Kurang Tepat.</strong> Aktivitas eksplorasi melalui observasi lapangan adalah bagian dari proses penelitian, bukan tahap evaluasi akhir. Jawaban yang benar adalah C.",
-                    C: "<strong>Tepat Sekali! Jawaban Anda Benar!</strong> Tahap desain pembelajaran di mana guru meminta peserta didik membuat pameran untuk menampilkan hasil penelitian mereka, yang akan dihadiri oleh berbagai pihak, menunjukkan bahwa guru sedang melakukan <strong>evaluasi melalui proyek kreatif dan interaktif</strong>.",
-                    D: "<strong>Kurang Tepat.</strong> Diskusi dan analisis hasil penelitian di kelas adalah bagian dari proses belajar, bukan tahap evaluasi akhir melalui pameran. Jawaban yang benar adalah C.",
-                    E: "<strong>Kurang Tepat.</strong> Penyusunan laporan dan refleksi individu adalah bagian dari hasil proyek, tetapi pameran adalah tahap evaluasi yang lebih komprehensif. Jawaban yang benar adalah C."
-                }
-            },
-            24: {
-                type: 'true/false-table',
-                // Jawaban yang benar untuk setiap opsi (A, B, C, D, E)
-                // 'Benar' berarti opsi tersebut adalah urutan yang benar
-                // 'Salah' berarti opsi tersebut adalah urutan yang salah
-                correctAnswers: {
-                    '24-A': 'Salah',
-                    '24-B': 'Benar', // Jawaban yang Benar dari file: 2 4 3 1
-                    '24-C': 'Salah',
-                    '24-D': 'Salah',
-                    '24-E': 'Salah'
-                },
-                feedbackCorrect: "<strong>Tepat Sekali! Jawaban Anda Benar!</strong> Urutan penyusunan tujuan pembelajaran yang mencerminkan proses berpikir kronologis dan logis dalam sejarah dimulai dengan mendeskripsikan perkembangan suatu kerajaan (2), kemudian mengidentifikasi faktor-faktor yang mendorong perkembangannya (4). Setelah itu, penting untuk memahami pengaruh letak geografis terhadap corak kehidupan (3), yang seringkali menjadi faktor pendukung atau penghambat. Terakhir, barulah mengidentifikasi faktor-faktor yang mendorong keruntuhan (1), karena keruntuhan terjadi setelah perkembangan dan pengaruh faktor-faktor lainnya. Urutan ini mengikuti alur waktu dan sebab-akibat yang runtut.",
-                feedbackIncorrect: "<strong>Ada beberapa yang perlu dikoreksi.</strong> Urutan penyusunan tujuan pembelajaran yang mencerminkan proses berpikir kronologis dan logis dalam sejarah adalah <strong>2 4 3 1</strong>. Ini dimulai dengan mendeskripsikan perkembangan, diikuti oleh faktor pendorong, pengaruh geografis, dan terakhir faktor keruntuhan. Mari kita tinjau kembali setiap pilihan Anda."
-            }
-        };
-    </script>
-</div>
-<div><script>
-function showFeedback(questionId, isCorrect, feedbackText) {
-    const feedbackBox = document.getElementById(`feedback-${questionId}`);
-    feedbackBox.innerHTML = feedbackText;
-    feedbackBox.style.display = 'block'; 
-    if (isCorrect) {
-        feedbackBox.classList.remove('soal-bg-red-100');
-        feedbackBox.classList.add('soal-bg-green-100');
-    } else {
-        feedbackBox.classList.remove('soal-bg-green-100');
-        feedbackBox.classList.add('soal-bg-red-100');
-    }
-}
-
-function disableQuestion(questionId) {
-    const questionContainer = document.getElementById(`quiz-${questionId}`);
-    const answerItems = questionContainer.querySelectorAll('.soal-answer-item');
-    answerItems.forEach(item => {
-        item.classList.add('disabled');
-        item.style.pointerEvents = 'none'; 
-    });
-    const tfOptions = questionContainer.querySelectorAll('.soal-tf-option');
-    tfOptions.forEach(option => {
-        option.classList.add('disabled');
-        option.style.pointerEvents = 'none'; 
-    });
-    const submitBtnSingle = questionContainer.querySelector('.submit-multiple-btn'); // For multiple choice
-    if (submitBtnSingle) {
-        submitBtnSingle.disabled = true;
-        submitBtnSingle.classList.add('disabled');
-    }
-    const submitBtnTable = questionContainer.querySelector('.submit-tf-table-btn'); // For true/false table
-    if (submitBtnTable) {
-        submitBtnTable.disabled = true;
-        submitBtnTable.classList.add('disabled');
-    }
-}
-
-document.querySelectorAll('.pilihan-soal').forEach(pilihanSoalDiv => {
-    const questionId = pilihanSoalDiv.dataset.questionId;
-    const questionType = pilihanSoalDiv.dataset.type;
-    const data = quizData[questionId]; 
-
-    if (questionType === 'single') {
-        const answerItems = pilihanSoalDiv.querySelectorAll('.soal-answer-item');
-        answerItems.forEach(item => {
-            item.addEventListener('click', function() {
-                if (this.classList.contains('disabled')) return;
-
-                const selectedValue = this.dataset.value;
-                const isCorrect = data.correctAnswers.includes(selectedValue);
-
-                if (isCorrect) {
-                    this.classList.add('correct');
-                } else {
-                    this.classList.add('incorrect');
-                    const correctAnswerItem = Array.from(answerItems).find(item => data.correctAnswers.includes(item.dataset.value));
-                    if (correctAnswerItem) {
-                        correctAnswerItem.classList.add('correct');
-                    }
-                }
-                showFeedback(questionId, isCorrect, isCorrect ? data.feedbackCorrect : (data.feedbackIncorrect[selectedValue] || data.feedbackIncorrect));
-                disableQuestion(questionId);
-            });
-        });
-    } else if (questionType === 'multiple') {
-        const answerItems = pilihanSoalDiv.querySelectorAll('.soal-answer-item');
-        const submitBtn = pilihanSoalDiv.querySelector('.submit-multiple-btn');
-
-        answerItems.forEach(item => {
-            item.addEventListener('click', function() {
-                if (this.classList.contains('disabled')) return;
-                this.classList.toggle('selected');
-            });
-        });
-
-        if (submitBtn) {
-            submitBtn.addEventListener('click', function() {
-                if (this.disabled) return;
-
-                const selectedValues = Array.from(answerItems)
-                                            .filter(item => item.classList.contains('selected'))
-                                            .map(item => item.dataset.value);
-
-                const isCorrect = selectedValues.length === data.correctAnswers.length &&
-                                  data.correctAnswers.every(val => selectedValues.includes(val)) &&
-                                  selectedValues.every(val => data.correctAnswers.includes(val));
-
-                answerItems.forEach(item => {
-                    const itemValue = item.dataset.value;
-                    const isSelected = item.classList.contains('selected');
-                    const isActuallyCorrect = data.correctAnswers.includes(itemValue);
-
-                    if (isSelected && isActuallyCorrect) {
-                        item.classList.add('correct');
-                    } else if (isSelected && !isActuallyCorrect) {
-                        item.classList.add('incorrect');
-                    } else if (!isSelected && isActuallyCorrect) {
-                        item.classList.add('correct');
-                        item.style.opacity = '0.6';
-                    }
-                });
-
-                showFeedback(questionId, isCorrect, isCorrect ? data.feedbackCorrect : data.feedbackIncorrect);
-                disableQuestion(questionId);
-            });
-        }
-    } else if (questionType === 'true/false-table') {
-        const submitBtn = pilihanSoalDiv.querySelector('.submit-tf-table-btn');
-
-        pilihanSoalDiv.querySelectorAll('.soal-tf-option').forEach(button => {
-            button.addEventListener('click', function() {
-                if (this.classList.contains('disabled')) return;
-
-                const parentRow = this.closest('.soal-statement-row');
-                parentRow.querySelectorAll('.soal-tf-option').forEach(btn => {
-                    btn.classList.remove('selected');
-                });
-                this.classList.add('selected');
-            });
-        });
-
-        if (submitBtn) {
-            submitBtn.addEventListener('click', function() {
-                if (this.disabled) return;
-
-                let allCorrect = true;
-                let feedbackMessage = "";
-
-                pilihanSoalDiv.querySelectorAll('.soal-statement-row').forEach(row => {
-                    const statementId = row.dataset.statementId;
-                    const selectedOption = row.querySelector('.soal-tf-option.selected');
-                    const userAnswer = selectedOption ? selectedOption.dataset.value : null;
-                    const correctExpectedAnswer = data.correctAnswers[statementId];
-
-                    row.querySelectorAll('.soal-tf-option').forEach(btn => {
-                        btn.classList.add('disabled');
-                        if (btn.dataset.value === correctExpectedAnswer) {
-                            btn.classList.add('correct');
-                        } else if (btn.classList.contains('selected') && btn.dataset.value !== correctExpectedAnswer) {
-                            btn.classList.add('incorrect');
-                        }
-                    });
-
-                    if (userAnswer !== correctExpectedAnswer) {
-                        allCorrect = false;
-                    }
-                });
-
-                if (allCorrect) {
-                    feedbackMessage = data.feedbackCorrect;
-                } else {
-                    feedbackMessage = data.feedbackIncorrect;
-                }
-
-                showFeedback(questionId, allCorrect, feedbackMessage);
-                disableQuestion(questionId);
-            });
-        }
-    }
-});
-</script></div>
-<div><script defer="defer">
-document.addEventListener("DOMContentLoaded", function () {
-  const style = document.createElement("style");
-  style.textContent = `
-    body {
-      user-select: none;
-      -webkit-user-select: none;
-      -ms-user-select: none;
-    }
-  `;
-  document.head.appendChild(style);
-  document.body.onselectstart = () => false;
-  document.body.ondragstart = () => false;
-  document.addEventListener("keydown", function (e) {
-    if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "a") {
-      e.preventDefault();
-    }
-  });
-});
-</script>
-</div>
-
-  <p>
-    
-  </p>
-
-  <p>
-    <a href="https://belajarium.id/soal-tryout-ppg-sejarah-bagian-2.html">Lanjut kebagian 2 (klik disini)</a>
   </p>
 
   <p>
