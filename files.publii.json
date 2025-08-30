@@ -1,5 +1,10 @@
 [
     {
+        "path": "09a6d00912694e42bced883047abeb6c.txt",
+        "type": "file",
+        "md5": "229d19e20e503d07f388722343970e33"
+    },
+    {
         "path": "404.html",
         "type": "file",
         "md5": "c8d2b9a2e03e9534690863bca4738f84"
@@ -97,12 +102,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b6e78166ceeb0c5b33a7d370dee55465"
+        "md5": "77c4ae72366bcef44afa437444c25d2f"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "0cfc1a144118e8591410f1138017377c"
+        "md5": "f646a12e100560013d57882696907401"
     },
     {
         "path": "halaman",
@@ -132,7 +137,7 @@
     {
         "path": "kalender-pendidikan-2025-2026.html",
         "type": "file",
-        "md5": "1de948dcebf3d39221987a236b3ab668"
+        "md5": "903fa22b05f261d84b59b5dc53083872"
     },
     {
         "path": "kategori",
@@ -507,7 +512,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b779d931400d8be98fa401f4b25b0578"
+        "md5": "6452b8e91c62b2d0c82c5a7f6fc49c8e"
     },
     {
         "path": "sitemap.xsl",
