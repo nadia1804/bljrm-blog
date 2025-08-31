@@ -3,7 +3,7 @@
     <title>Belajarium</title>
     <link href="https://belajarium.id/feed.xml" rel="self" />
     <link href="https://belajarium.id" />
-    <updated>2025-08-31T09:47:44+08:00</updated>
+    <updated>2025-08-31T10:09:54+08:00</updated>
     <author>
         <name>Deddy Hidayat</name>
     </author>
@@ -32,7 +32,7 @@
                     <p><img src="https://belajarium.id/media/posts/27/panduan-indexnow_Page1.png" class="type:primaryImage" alt="panduan IndexNow" /></p>
                 <p>Tutorial <span style="text-decoration: underline;"><strong>IndexNow</strong></span> 1x klik otomatis submit sitemap pada bing. </p>
 
-<p class="msg--info msg"><svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> Panduan IndexNow ini <svg class="li li-corner-up-right" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><path d="m15 14 5-5-5-5"/><path d="M4 20v-7a4 4 0 0 1 4-4h12"/></g></svg> <span style="text-decoration: underline;"><strong>khusus untuk windows</strong></span>.</p>
+<p class="msg--info msg"><svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> Panduan IndexNow ini <span style="text-decoration: underline;"><strong>khusus untuk windows</strong></span>.</p>
 <div class="post__toc">
 <h3>Daftar isi</h3>
 <ul>
@@ -60,25 +60,25 @@
 <li>Klik tombol <strong>Generate API Key</strong></li>
 <li>Dowload file `.txt` yang berisi key tersebut</li>
 </ol>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://belajarium.id/media/posts/27//panduan-indexnow_Page4.png" alt="Donwload api IndexNow" width="1920" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-xs.webp 300w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-sm.webp 480w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-md.webp 768w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-xl.webp 1200w"></figure>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://belajarium.id/media/posts/27//panduan-indexnow_Page4.png" alt="Donwload ApiKey IndexNow" width="1920" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-xs.webp 300w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-sm.webp 480w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-md.webp 768w ,https://belajarium.id/media/posts/27//responsive/panduan-indexnow_Page4-xl.webp 1200w"></figure>
 <p class="msg msg--info"><svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> klik download pada Generate API Key, abaikan point nomor 2 pada gambar</p>
-<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">File yang didownload berupa <svg class="li li-corner-up-right" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><path d="m15 14 5-5-5-5"/><path d="M4 20v-7a4 4 0 0 1 4-4h12"/></g></svg> ApiKey.txt seperti ini Contoh: <span style="text-decoration: underline;">a230e4ddd7dd480193bc9f2aebc4e162.txt</span></span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">File yang didownload berupa ApiKey.txt seperti ini Contoh: a230e4ddd7dd480193bc9f2aebc4e162.txt</span></p>
 <h2 id="mcetoc_1j3tpsca712i">Upload File `.txt` ke Root Domain</h2>
-<p>Upload file yang sudah didowload tadi `.txt` ke <svg class="li li-corner-up-right" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><path d="m15 14 5-5-5-5"/><path d="M4 20v-7a4 4 0 0 1 4-4h12"/></g></svg> root domain kamu, misalnya:</p>
+<p>Upload file yang sudah didowload tadi `.txt` ke root domain kamu, misalnya:</p>
 <pre class="language-http line-numbers"><code>https://belajarium.id/a230e4ddd7dd480193bc9f2aebc4e162.txt</code></pre>
-<p>jika berhasil di upload cek maka muncul tulisan <svg class="li li-corner-up-right" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><path d="m15 14 5-5-5-5"/><path d="M4 20v-7a4 4 0 0 1 4-4h12"/></g></svg> di browser :</p>
+<p>jika berhasil di upload cek maka muncul tulisan di browser :</p>
 <pre class="language-batch line-numbers"><code>a230e4ddd7dd480193bc9f2aebc4e162</code></pre>
-<p>dan Cek Ping manual via cmd (<svg class="li li-corner-up-right" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><path d="m15 14 5-5-5-5"/><path d="M4 20v-7a4 4 0 0 1 4-4h12"/></g></svg> <span style="color: #02192b;">opsional)</span>:</p>
+<p>dan Cek Ping manual via cmd (<span style="color: #02192b;">opsional)</span>:</p>
 <pre class="language-bash line-numbers"><code>curl.exe -i "https://api.indexnow.org/indexnow?url=https://domainkamu.com/&amp;key=a230e4ddd7dd480193bc9f2aebc4e162"
 </code></pre>
-<p>hasil :<br>HTTP/1.1 200 OK<br>Artinya situs kamu <svg class="li li-corner-up-right" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><path d="m15 14 5-5-5-5"/><path d="M4 20v-7a4 4 0 0 1 4-4h12"/></g></svg> sudah siap menggunakan IndexNow.</p>
+<p>hasil :<br>HTTP/1.1 200 OK<br>Artinya situs kamu sudah siap menggunakan IndexNow.</p>
 <h2 id="mcetoc_1j3tpsca712k">Buat script otomatis </h2>
 <p>Agar mempermudah alur kerja kita dalam melakukan ping IndexNow, kita perlu membuat <svg class="li li-corner-up-right" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><path d="m15 14 5-5-5-5"/><path d="M4 20v-7a4 4 0 0 1 4-4h12"/></g></svg> 2 buah file bernama :</p>
 <ol>
 <li><strong>indexnow.bat</strong></li>
 <li><strong>indexnow-data.txt</strong></li>
 </ol>
-<p class="msg msg--info"><svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> Cara kerja script ini : <svg class="li li-corner-up-right" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><path d="m15 14 5-5-5-5"/><path d="M4 20v-7a4 4 0 0 1 4-4h12"/></g></svg> indexnow.bat akan mencari file <svg class="li li-corner-up-right" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><path d="m15 14 5-5-5-5"/><path d="M4 20v-7a4 4 0 0 1 4-4h12"/></g></svg> indexnow-data.txt kemudian melakukan ping secara otomatis</p>
+<p class="msg msg--info"><svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> Cara kerja script ini : indexnow.bat akan mencari file indexnow-data.txt kemudian melakukan ping secara otomatis</p>
 <h3 id="mcetoc_1j3tpsca712l">buat file 'indexnow.bat'</h3>
 <p>Buat file bernama <svg class="li li-corner-up-right" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><path d="m15 14 5-5-5-5"/><path d="M4 20v-7a4 4 0 0 1 4-4h12"/></g></svg> `indexnow.bat` dengan isi script berikut:</p>
 <pre class="language-batch line-numbers"><code>@echo off
@@ -111,8 +111,7 @@ echo.
 echo ✅ Semua ping selesai.
 pause</code></pre>
 <p>Perhatikan bagian diatas, kamu perlu mengganti :</p>
-<p>:: API Key IndexNow terbaru<br>set "KEY=<span style="text-decoration: underline;">a230e4ddd7dd480193bc9f2aebc4e162</span>"<br><br>:: File daftar URL<br>set "URLFILE=<span style="text-decoration: underline;">C:\Users\Administrator\Documents\belajarium\indexnow-data.txt</span>"</p>
-<p class="msg msg--info"><svg class="li li-info" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></g></svg> Ganti tanda yang bergaris bawah dengan milik mu</p>
+<p>:: API Key IndexNow terbaru<br>set "KEY=<span style="text-decoration: underline;">input key disini</span>"<br><br>:: File daftar URL<br>set "URLFILE=<span style="text-decoration: underline;">ganti path disini</span>"</p>
 <h3 id="mcetoc_1j3tpsca712m">Buat File 'indexnow-data.txt'</h3>
 <p>buat file kedua <svg class="li li-corner-up-right" width="24px" height="24px" fill="none" stroke="currentColor" stroke-width="1" viewBox="0 0 24 24"><g><path d="m15 14 5-5-5-5"/><path d="M4 20v-7a4 4 0 0 1 4-4h12"/></g></svg> indexnow-data.txt dengan isinya adalah daftar sitemap kamu :</p>
 <pre class="language-http line-numbers"><code>https://belajarium.id/
