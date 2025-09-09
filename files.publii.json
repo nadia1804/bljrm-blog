@@ -97,17 +97,17 @@
     {
         "path": "cek-hari-libur-2025.html",
         "type": "file",
-        "md5": "d08d2dda2be74facc386d8a4367c0c60"
+        "md5": "26c910691a17003a10e39c09d23e1a8d"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ae937f7837228876c006f6f0856cf249"
+        "md5": "2319f3465c1019c6263988c1cb4f6f66"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f1ffd82af968cc2f000ace26cd0a9c16"
+        "md5": "5d26c90b71d0c9a304fb6c6b184f566b"
     },
     {
         "path": "halaman",
@@ -122,17 +122,17 @@
     {
         "path": "/halaman/2/index.html",
         "type": "file",
-        "md5": "96e1322c6e47b42ed890e7612105a53b"
+        "md5": "02947e4f04fe3f50bfb1b0ea61cbf5ec"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "b73b3c8fd03b81c8d9d8cccacab96191"
+        "md5": "943a43f150b0813e2cf988a02d4dc50c"
     },
     {
         "path": "juknis-bos-2025.html",
         "type": "file",
-        "md5": "9785a14d1520dad46d4379cc3829a9fa"
+        "md5": "e1f56ac780887b74c36dc21185e69099"
     },
     {
         "path": "kalender-pendidikan-2025-2026.html",
@@ -152,12 +152,12 @@
     {
         "path": "/kategori/banjar/index.html",
         "type": "file",
-        "md5": "aacfb398ab5eb2eeeb0e359ae59b028d"
+        "md5": "f0616f7717f1a898e873998c357deebe"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "bf62ba6b3d0caef39c255548fb050d2f"
+        "md5": "af8924c004054a8bcbe4dc72911d04bf"
     },
     {
         "path": "kategori/kelas-6",
@@ -167,7 +167,7 @@
     {
         "path": "/kategori/kelas-6/index.html",
         "type": "file",
-        "md5": "b8c1813826b4b224c5e1216fef36a6f5"
+        "md5": "02785f1ba8aa209433ebc896e4f90c3c"
     },
     {
         "path": "kategori/muatan-lokal",
@@ -177,7 +177,7 @@
     {
         "path": "/kategori/muatan-lokal/index.html",
         "type": "file",
-        "md5": "ae460429be89c811a8a403e85d4ee553"
+        "md5": "5fbeea652779101f2875211b13b97a69"
     },
     {
         "path": "kategori/perangkat",
@@ -187,7 +187,17 @@
     {
         "path": "/kategori/perangkat/index.html",
         "type": "file",
-        "md5": "c882d3234d26506dc9b4105fd7c5ed44"
+        "md5": "3e0b4a4d3a9458dcb17249ac2b3930e9"
+    },
+    {
+        "path": "kategori/pmm",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kategori/pmm/index.html",
+        "type": "file",
+        "md5": "6d5fce602ab452cdc81cbe003d7e437a"
     },
     {
         "path": "kategori/ppg",
@@ -197,7 +207,7 @@
     {
         "path": "/kategori/ppg/index.html",
         "type": "file",
-        "md5": "93b5edd79f0f000de338b90375c2bc7a"
+        "md5": "523f4d3980dfa943261bfe55b3800836"
     },
     {
         "path": "kategori/regulasi",
@@ -207,7 +217,7 @@
     {
         "path": "/kategori/regulasi/index.html",
         "type": "file",
-        "md5": "6dd07e3ae59581f17cd9db473966fdbe"
+        "md5": "1a41335c8db0cab560f8d8c908d5448c"
     },
     {
         "path": "kategori/semester-1",
@@ -217,7 +227,7 @@
     {
         "path": "/kategori/semester-1/index.html",
         "type": "file",
-        "md5": "3525e42aac113195459a0ccf5304ad18"
+        "md5": "577220e805634abfbacbbc870e328061"
     },
     {
         "path": "kategori/soal-ppg",
@@ -227,7 +237,7 @@
     {
         "path": "/kategori/soal-ppg/index.html",
         "type": "file",
-        "md5": "ee8fa544b2afbb70ab37a7b5d5875085"
+        "md5": "4d5507a53fe1aa4cba0af28da9e29f68"
     },
     {
         "path": "kategori/website",
@@ -237,7 +247,7 @@
     {
         "path": "/kategori/website/index.html",
         "type": "file",
-        "md5": "ba557244116daf00fde62c7b9e4db45c"
+        "md5": "aff1d29267e8b4acafc1ec7a346dbe74"
     },
     {
         "path": "kumpulan-soal-ppg-2025.html",
@@ -657,7 +667,7 @@
     {
         "path": "/penulis/belajarium-admin/index.html",
         "type": "file",
-        "md5": "4a57cf830c1543b77a20e13523fda183"
+        "md5": "549b46f3d414fc81bc61b57811cb5eb6"
     },
     {
         "path": "penulis/deddy-hidayat",
@@ -667,7 +677,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "e0220521cbc94f3dfacc973ca2fab340"
+        "md5": "d8e899206f120314f6512fd977caea53"
     },
     {
         "path": "penulis/vina",
@@ -687,12 +697,17 @@
     {
         "path": "/penulis/vina/halaman/2/index.html",
         "type": "file",
-        "md5": "269d773c1094db0c6ca88f195cf7e1e6"
+        "md5": "d147658273bfbcdab3073586a4a4bb52"
     },
     {
         "path": "/penulis/vina/index.html",
         "type": "file",
-        "md5": "63659a207ac3a6b38ca89f2a3adb3d1e"
+        "md5": "aa95db2855db5b25a26e8b9adf89c1df"
+    },
+    {
+        "path": "pmm-kepala-sekolah-program-kerja-2025.html",
+        "type": "file",
+        "md5": "1e0cef4a8846bf8b4cee049d33610480"
     },
     {
         "path": "robots.txt",
@@ -702,7 +717,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "32177e30f39b2c2cf2fcb60265a6479d"
+        "md5": "74522aa8e908dd45166dbe7aa35c6b7d"
     },
     {
         "path": "sitemap.xsl",
