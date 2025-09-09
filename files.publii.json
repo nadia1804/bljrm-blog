@@ -102,12 +102,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "2319f3465c1019c6263988c1cb4f6f66"
+        "md5": "0c5baf80f92795d4b9aee143f9ee5b42"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "5d26c90b71d0c9a304fb6c6b184f566b"
+        "md5": "56b76c6dffdcac41d568682dc3680910"
     },
     {
         "path": "halaman",
@@ -707,7 +707,7 @@
     {
         "path": "pmm-kepala-sekolah-program-kerja-2025.html",
         "type": "file",
-        "md5": "1e0cef4a8846bf8b4cee049d33610480"
+        "md5": "92e98230744d55fea18521815827d4c4"
     },
     {
         "path": "robots.txt",
@@ -717,7 +717,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "74522aa8e908dd45166dbe7aa35c6b7d"
+        "md5": "5fa8ec0b4c8e6a04914d290945418010"
     },
     {
         "path": "sitemap.xsl",
