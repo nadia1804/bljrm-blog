@@ -102,12 +102,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "208b0b70196c63a37f6ef6b026d7b763"
+        "md5": "dfe5d6a4bc16255b32440c354c828832"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f2a7d9e1f3ade87665cb27f01774b7f4"
+        "md5": "17fb672a0a6b1cebf76a921ffaf62da2"
     },
     {
         "path": "halaman",
@@ -1157,7 +1157,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "9c7e06bfd11e3644023600f0978d19e4"
+        "md5": "6c85cb7f4ce8b1c9bc5d029badb744ba"
     },
     {
         "path": "sitemap.xsl",
@@ -1242,7 +1242,7 @@
     {
         "path": "teknologi-zaman-pra-aksara.html",
         "type": "file",
-        "md5": "31befceba790814c930827e8dfbcd156"
+        "md5": "aebb2860bc8618791e7d979cff235893"
     },
     {
         "path": "term-of-services.html",
