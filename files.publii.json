@@ -102,12 +102,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0c5baf80f92795d4b9aee143f9ee5b42"
+        "md5": "208b0b70196c63a37f6ef6b026d7b763"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "56b76c6dffdcac41d568682dc3680910"
+        "md5": "f2a7d9e1f3ade87665cb27f01774b7f4"
     },
     {
         "path": "halaman",
@@ -122,12 +122,12 @@
     {
         "path": "/halaman/2/index.html",
         "type": "file",
-        "md5": "fa80e2366527614fd0e0ebbf8ed9bac1"
+        "md5": "34e5f2f564a85e3c54501ed1db1665e0"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "3986f65276ecfd3ed15d1c50f4630226"
+        "md5": "ac1a6eeb0bbae843f22f13d19ed651f8"
     },
     {
         "path": "juknis-bos-2025.html",
@@ -152,12 +152,12 @@
     {
         "path": "/kategori/banjar/index.html",
         "type": "file",
-        "md5": "00014eaf4244576eb418a095c4659e34"
+        "md5": "5b1239177d47db4118db294824d28e0f"
     },
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "4d77ce8befbdae7a2b2f1800def88c3a"
+        "md5": "a54caa4423369a939157db68bb195dd6"
     },
     {
         "path": "kategori/kelas-6",
@@ -167,7 +167,7 @@
     {
         "path": "/kategori/kelas-6/index.html",
         "type": "file",
-        "md5": "edfd135b65d0f82b3fae3fedd198039a"
+        "md5": "4438d98d22e6dca3684ad6e1da4dafb8"
     },
     {
         "path": "kategori/muatan-lokal",
@@ -177,7 +177,7 @@
     {
         "path": "/kategori/muatan-lokal/index.html",
         "type": "file",
-        "md5": "1c4b5587fc282e4794c928ce2cc8e142"
+        "md5": "a41e9e0916ec845b9ddda6a56eb6e2e1"
     },
     {
         "path": "kategori/perangkat",
@@ -187,7 +187,7 @@
     {
         "path": "/kategori/perangkat/index.html",
         "type": "file",
-        "md5": "4c0800d6d41df3808c69f35ac88acf79"
+        "md5": "49c166672d358230af72c79c516f8882"
     },
     {
         "path": "kategori/pmm",
@@ -197,7 +197,7 @@
     {
         "path": "/kategori/pmm/index.html",
         "type": "file",
-        "md5": "88f6f422801d6b675aa60e5dc9e20605"
+        "md5": "6c6b684f82335848316af125f03331e3"
     },
     {
         "path": "kategori/ppg",
@@ -207,7 +207,7 @@
     {
         "path": "/kategori/ppg/index.html",
         "type": "file",
-        "md5": "060d5e13cae2c4d974f7d423f711b9b2"
+        "md5": "42da0a19e0ca8bb630e767ee3a17c879"
     },
     {
         "path": "kategori/regulasi",
@@ -217,7 +217,17 @@
     {
         "path": "/kategori/regulasi/index.html",
         "type": "file",
-        "md5": "da487d9e47d4c17f49bb9baaa6370149"
+        "md5": "26cdcf2dc3a0ca6e5cad8fbab8b3607c"
+    },
+    {
+        "path": "kategori/sejarah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kategori/sejarah/index.html",
+        "type": "file",
+        "md5": "edd3f8355ce568138bb12b6599b9dca7"
     },
     {
         "path": "kategori/semester-1",
@@ -227,7 +237,7 @@
     {
         "path": "/kategori/semester-1/index.html",
         "type": "file",
-        "md5": "5c77237791cea6b8ee58b0a66c3874d4"
+        "md5": "9d3987fc7c37404aba6fbe1970aec0ec"
     },
     {
         "path": "kategori/soal-ppg",
@@ -237,7 +247,7 @@
     {
         "path": "/kategori/soal-ppg/index.html",
         "type": "file",
-        "md5": "28c3651f082fdd91c0e7ad941ea9c96e"
+        "md5": "eeba61f0a879ca41984bf263579c029e"
     },
     {
         "path": "kategori/website",
@@ -247,7 +257,7 @@
     {
         "path": "/kategori/website/index.html",
         "type": "file",
-        "md5": "f369458c97775ce54e85cd680bc2b077"
+        "md5": "fe01df0c23ded5a2e9dbfdaa94b9df6f"
     },
     {
         "path": "kumpulan-soal-ppg-2025.html",
@@ -580,6 +590,436 @@
         "md5": "5e974a4d70e9afaaeda627c57cf2f6ae"
     },
     {
+        "path": "media/posts/29",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/29/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-abris-sous-roche.jpg",
+        "type": "file",
+        "md5": "a7c8f16a5111382e586111e5ada54bc3"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-chaldeon.jpg",
+        "type": "file",
+        "md5": "d913c13c2e854d727d98e07b99d7ad29"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-chopper.jpg",
+        "type": "file",
+        "md5": "eea9854af1dfe842b5aee7f5f10c4f2a"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-flakes.jpg",
+        "type": "file",
+        "md5": "26111d1227b7a2b0d1925e304c22a1db"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-kapak-corong.jpg",
+        "type": "file",
+        "md5": "6c3c2bbdadf2f4154904c25ce7bacc7a"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-kapak-lonjong.jpg",
+        "type": "file",
+        "md5": "2b39543ce926e5aaa4a5b14afd683ec0"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-kapak-perimbas.jpg",
+        "type": "file",
+        "md5": "da221a4407d8698085ba90e65330a144"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-kapak-persegi.jpg",
+        "type": "file",
+        "md5": "39799435dae5eef36693605b706e75f0"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-kjokenmoddinger.jpg",
+        "type": "file",
+        "md5": "b515b63de02473eb222838d8e85aff1f"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-moko.jpg",
+        "type": "file",
+        "md5": "a5f019801dde2196c3ee7e00449bba49"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-nekara.jpg",
+        "type": "file",
+        "md5": "86a57659f59df07e6292e10924a7ff1f"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-tehnik-a-cire-perdue.jpg",
+        "type": "file",
+        "md5": "1347f4c1319d54143d2aa0eb3fb8f2f3"
+    },
+    {
+        "path": "/media/posts/29/gallery/gambar-tehnik-bivalve.jpg",
+        "type": "file",
+        "md5": "42949799620c0bb087dcd75b10f02071"
+    },
+    {
+        "path": "/media/posts/29/gambar-abris-sous-roche.jpg",
+        "type": "file",
+        "md5": "a7c8f16a5111382e586111e5ada54bc3"
+    },
+    {
+        "path": "/media/posts/29/gambar-chaldeon.jpg",
+        "type": "file",
+        "md5": "d913c13c2e854d727d98e07b99d7ad29"
+    },
+    {
+        "path": "/media/posts/29/gambar-chopper.jpg",
+        "type": "file",
+        "md5": "eea9854af1dfe842b5aee7f5f10c4f2a"
+    },
+    {
+        "path": "/media/posts/29/gambar-flakes.jpg",
+        "type": "file",
+        "md5": "26111d1227b7a2b0d1925e304c22a1db"
+    },
+    {
+        "path": "/media/posts/29/gambar-kapak-corong.jpg",
+        "type": "file",
+        "md5": "6c3c2bbdadf2f4154904c25ce7bacc7a"
+    },
+    {
+        "path": "/media/posts/29/gambar-kapak-lonjong.jpg",
+        "type": "file",
+        "md5": "2b39543ce926e5aaa4a5b14afd683ec0"
+    },
+    {
+        "path": "/media/posts/29/gambar-kapak-perimbas.jpg",
+        "type": "file",
+        "md5": "da221a4407d8698085ba90e65330a144"
+    },
+    {
+        "path": "/media/posts/29/gambar-kapak-persegi.jpg",
+        "type": "file",
+        "md5": "39799435dae5eef36693605b706e75f0"
+    },
+    {
+        "path": "/media/posts/29/gambar-kjokenmoddinger.jpg",
+        "type": "file",
+        "md5": "b515b63de02473eb222838d8e85aff1f"
+    },
+    {
+        "path": "/media/posts/29/gambar-moko.jpg",
+        "type": "file",
+        "md5": "a5f019801dde2196c3ee7e00449bba49"
+    },
+    {
+        "path": "/media/posts/29/gambar-nekara.jpg",
+        "type": "file",
+        "md5": "86a57659f59df07e6292e10924a7ff1f"
+    },
+    {
+        "path": "/media/posts/29/gambar-tehnik-a-cire-perdue.jpg",
+        "type": "file",
+        "md5": "1347f4c1319d54143d2aa0eb3fb8f2f3"
+    },
+    {
+        "path": "/media/posts/29/gambar-tehnik-bivalve.jpg",
+        "type": "file",
+        "md5": "42949799620c0bb087dcd75b10f02071"
+    },
+    {
+        "path": "/media/posts/29/Objek-pra-sejarah-cover.png",
+        "type": "file",
+        "md5": "0f3638e7a2731de0a35ab37579faac03"
+    },
+    {
+        "path": "media/posts/29/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-abris-sous-roche-md.webp",
+        "type": "file",
+        "md5": "4a7aa08812154d200eb57cc818829a6a"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-abris-sous-roche-sm.webp",
+        "type": "file",
+        "md5": "929bdf60013fa48e6c6dcc30145e0e38"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-abris-sous-roche-xl.webp",
+        "type": "file",
+        "md5": "5658d613dcfa83141bf5242ba732bc93"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-abris-sous-roche-xs.webp",
+        "type": "file",
+        "md5": "adfbfd9d846b75f65519e4520820f70b"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-chaldeon-md.webp",
+        "type": "file",
+        "md5": "47d9f623c92a1e8bd1937b0df1133ded"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-chaldeon-sm.webp",
+        "type": "file",
+        "md5": "e9db7c3426d39be4c30619e8a687a2b8"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-chaldeon-xl.webp",
+        "type": "file",
+        "md5": "46aadcc51aba908ef4cf420794d7fee2"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-chaldeon-xs.webp",
+        "type": "file",
+        "md5": "35b505b2acc7d15b137e0bf910802fab"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-chopper-md.webp",
+        "type": "file",
+        "md5": "3ef8fcbb5aea1dff1c1b24d610426157"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-chopper-sm.webp",
+        "type": "file",
+        "md5": "0d6a37dc960a5391f98606528bdcf1c8"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-chopper-xl.webp",
+        "type": "file",
+        "md5": "adffe34b7c60d674e584ea24a775703d"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-chopper-xs.webp",
+        "type": "file",
+        "md5": "f8c28deb2d9075e179a9a7dec4655263"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-flakes-md.webp",
+        "type": "file",
+        "md5": "c7e4feec6535a98376ff2eeeb1c0cfbc"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-flakes-sm.webp",
+        "type": "file",
+        "md5": "2c41828fa339f5362c61e69c61f207ba"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-flakes-xl.webp",
+        "type": "file",
+        "md5": "554fa5df76942ddc59dfe66170c48f95"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-flakes-xs.webp",
+        "type": "file",
+        "md5": "6be486c8664d62435b9811210741c8bc"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-corong-md.webp",
+        "type": "file",
+        "md5": "846179886677c22bff15c830c72fea69"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-corong-sm.webp",
+        "type": "file",
+        "md5": "ac418f7e73b1d44944e70c37b1bde4d3"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-corong-xl.webp",
+        "type": "file",
+        "md5": "596bdc77c0c3ed293f77a206347886d4"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-corong-xs.webp",
+        "type": "file",
+        "md5": "ff70509adcc91d52e95d31ff11e8a3e3"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-lonjong-md.webp",
+        "type": "file",
+        "md5": "4068e6e478d1e4cca82002531c40d1b3"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-lonjong-sm.webp",
+        "type": "file",
+        "md5": "a258ea7a56351fd30dd30774b15bce1d"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-lonjong-xl.webp",
+        "type": "file",
+        "md5": "b9ae4fa6e80aa279cd65396779755b7a"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-lonjong-xs.webp",
+        "type": "file",
+        "md5": "7df5288f36d064fc64676ec0e3d0129d"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-perimbas-md.webp",
+        "type": "file",
+        "md5": "9c2656756c535a3b7a66814e6fb6cd9c"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-perimbas-sm.webp",
+        "type": "file",
+        "md5": "9afa0ab669a53cac413035c4de349e5b"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-perimbas-xl.webp",
+        "type": "file",
+        "md5": "8be651eca04ed2d21c548a94174b5927"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-perimbas-xs.webp",
+        "type": "file",
+        "md5": "d6febb34f4ecf01205613dfd4a1e5910"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-persegi-md.webp",
+        "type": "file",
+        "md5": "682c5dbcc077489da0d34651f359fdee"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-persegi-sm.webp",
+        "type": "file",
+        "md5": "e1c2bb7a2f7231f98a190daa88f84731"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-persegi-xl.webp",
+        "type": "file",
+        "md5": "c140a437422601863f31570287ba6c12"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kapak-persegi-xs.webp",
+        "type": "file",
+        "md5": "c0be0fa1681e666b6f2b38e525e6b661"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kjokenmoddinger-md.webp",
+        "type": "file",
+        "md5": "ca493482aaf5303897ddb6c86505c778"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kjokenmoddinger-sm.webp",
+        "type": "file",
+        "md5": "35bc646b760186cba69350bc9fda45de"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kjokenmoddinger-xl.webp",
+        "type": "file",
+        "md5": "6fae8fd09c8dd5e1a61ef0f2002aa1e4"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-kjokenmoddinger-xs.webp",
+        "type": "file",
+        "md5": "5167587e717482b5d2cae9561f851e54"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-moko-md.webp",
+        "type": "file",
+        "md5": "0f7f77b8603ab6da94d4b40f660a2c2b"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-moko-sm.webp",
+        "type": "file",
+        "md5": "9b34ebc30e36a69c758dd83ec5f4ac95"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-moko-xl.webp",
+        "type": "file",
+        "md5": "88a234043e424f6fc6651a0d2c24b5e2"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-moko-xs.webp",
+        "type": "file",
+        "md5": "fc1f6fc568e31a71fee870043087e850"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-nekara-md.webp",
+        "type": "file",
+        "md5": "afac497d63cfe6bf1ba15a48860578a1"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-nekara-sm.webp",
+        "type": "file",
+        "md5": "15bbbb251a1a22f57099a66074fd5783"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-nekara-xl.webp",
+        "type": "file",
+        "md5": "cfd3e0365cf8586cee61078b632f35d0"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-nekara-xs.webp",
+        "type": "file",
+        "md5": "d1face584e57897f2b5ac86a0f287154"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-tehnik-a-cire-perdue-md.webp",
+        "type": "file",
+        "md5": "2570c2c69925c13bfcaa36f6666ebcab"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-tehnik-a-cire-perdue-sm.webp",
+        "type": "file",
+        "md5": "a9055ff186c484bcee2b15e69aaee8b9"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-tehnik-a-cire-perdue-xl.webp",
+        "type": "file",
+        "md5": "dee9a3d0850ddc3475603aa442ebec14"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-tehnik-a-cire-perdue-xs.webp",
+        "type": "file",
+        "md5": "436faaea9a136c4f8760ab90d20dc60c"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-tehnik-bivalve-md.webp",
+        "type": "file",
+        "md5": "6ed74930b630dc4880f9f83987c5b8eb"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-tehnik-bivalve-sm.webp",
+        "type": "file",
+        "md5": "a6c08475cd9e913c4a10d65ccede2675"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-tehnik-bivalve-xl.webp",
+        "type": "file",
+        "md5": "6682d67f75c57afb524d3ead03f2d1af"
+    },
+    {
+        "path": "/media/posts/29/responsive/gambar-tehnik-bivalve-xs.webp",
+        "type": "file",
+        "md5": "436b9a768dd8ece1f22d5c3091bb6659"
+    },
+    {
+        "path": "/media/posts/29/responsive/Objek-pra-sejarah-cover-md.webp",
+        "type": "file",
+        "md5": "8e1cee64eb32635adfdf9bbc4fd6227c"
+    },
+    {
+        "path": "/media/posts/29/responsive/Objek-pra-sejarah-cover-sm.webp",
+        "type": "file",
+        "md5": "2bfe85fdeb579b4754e709c987df1ecd"
+    },
+    {
+        "path": "/media/posts/29/responsive/Objek-pra-sejarah-cover-xl.webp",
+        "type": "file",
+        "md5": "e7aa6c8b723c6b367a58150c37c465b8"
+    },
+    {
+        "path": "/media/posts/29/responsive/Objek-pra-sejarah-cover-xs.webp",
+        "type": "file",
+        "md5": "049d10ee309ef71fd18cd1e38741504e"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -667,7 +1107,7 @@
     {
         "path": "/penulis/belajarium-admin/index.html",
         "type": "file",
-        "md5": "7fb8b690f08d6221ad33c4250bd0bc1f"
+        "md5": "87786d0f318dbe946060317881b4ccb6"
     },
     {
         "path": "penulis/deddy-hidayat",
@@ -677,7 +1117,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "b227e12b040a9446f737dc51c54d039a"
+        "md5": "b4a2eec2240373169d546ec61c72ea46"
     },
     {
         "path": "penulis/vina",
@@ -697,12 +1137,12 @@
     {
         "path": "/penulis/vina/halaman/2/index.html",
         "type": "file",
-        "md5": "20bf3ed118594dfebd0182e67746da64"
+        "md5": "a59c6afa78e02a9876a93721728fcc36"
     },
     {
         "path": "/penulis/vina/index.html",
         "type": "file",
-        "md5": "8e078f50357cbddf490903703d0bc174"
+        "md5": "ad22c793be80f819bd173d9e7e4200d4"
     },
     {
         "path": "pmm-kepala-sekolah-program-kerja-2025.html",
@@ -717,7 +1157,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "5fa8ec0b4c8e6a04914d290945418010"
+        "md5": "9c7e06bfd11e3644023600f0978d19e4"
     },
     {
         "path": "sitemap.xsl",
@@ -798,6 +1238,11 @@
         "path": "soal-tryout-ppg-sejarah-bagian-3.html",
         "type": "file",
         "md5": "4e39a87c5bd35bd1b98e461729d2efe8"
+    },
+    {
+        "path": "teknologi-zaman-pra-aksara.html",
+        "type": "file",
+        "md5": "31befceba790814c930827e8dfbcd156"
     },
     {
         "path": "term-of-services.html",
