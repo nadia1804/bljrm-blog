@@ -102,12 +102,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "26ca1a0268e67231b7991baa3077ca55"
+        "md5": "2fba05336954c72f5d4592652ad22220"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "b3dc0cf8992ff547e32ed915b046022e"
+        "md5": "f6302a0a95ad5120a9684ef6f5f7fdd0"
     },
     {
         "path": "halaman",
@@ -1387,7 +1387,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "668f8e3576c792401ee702abbd0d9a59"
+        "md5": "159f9ba21df7dc77b3b049051c300028"
     },
     {
         "path": "sitemap.xsl",
@@ -1472,7 +1472,7 @@
     {
         "path": "tehnik-menggambar-model.html",
         "type": "file",
-        "md5": "62225e48f6a5231db6302fd36025bced"
+        "md5": "e62e471abf77526776d6c32e73ab9949"
     },
     {
         "path": "teknologi-zaman-pra-aksara.html",
