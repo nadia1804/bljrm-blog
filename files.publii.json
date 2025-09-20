@@ -100,14 +100,19 @@
         "md5": "2639f38fcb678e1a645c585ea6031647"
     },
     {
+        "path": "dokumen-kurikulum-kosp-rks.html",
+        "type": "file",
+        "md5": "16548e089151d7f29b1a67d5a09aaf07"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "687a70531b7ca17308afef6c51813faa"
+        "md5": "06efc0a62a71e62693fe9032e88a4fa0"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "79b122153c50d6082934d42257c57a36"
+        "md5": "f5f58c028e72168f524a0f19eebbce5e"
     },
     {
         "path": "halaman",
@@ -122,12 +127,22 @@
     {
         "path": "/halaman/2/index.html",
         "type": "file",
-        "md5": "35fb800c7c422b4995a48be0ec9f50d1"
+        "md5": "9e2a3c886d32c79256716983e57053c4"
+    },
+    {
+        "path": "halaman/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/halaman/3/index.html",
+        "type": "file",
+        "md5": "d6b8900d1cb48d1e964e47e219070bd3"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "47bbbb60c2f98feebec6989110d86d73"
+        "md5": "6ca04688af54ea76a79821a53d3fd6bb"
     },
     {
         "path": "juknis-bos-2025.html",
@@ -157,7 +172,7 @@
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "2f626658a80ca6e10aa56eff2dd00117"
+        "md5": "d763ee7e065fb7494d41e1fbc170e3b0"
     },
     {
         "path": "kategori/kelas-6",
@@ -187,7 +202,7 @@
     {
         "path": "/kategori/perangkat/index.html",
         "type": "file",
-        "md5": "1511e08d0520cf5ca1d45f467b00b20c"
+        "md5": "21081215f678b242699c16e53d9b1092"
     },
     {
         "path": "kategori/pmm",
@@ -1275,6 +1290,41 @@
         "md5": "2c6204ce1c1daa186115f05f958d0ccc"
     },
     {
+        "path": "media/posts/32",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/32/Dokumen-Kurikulum-KOSP.png",
+        "type": "file",
+        "md5": "f95d4a31762426888985e7e8217e4c0d"
+    },
+    {
+        "path": "media/posts/32/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/32/responsive/Dokumen-Kurikulum-KOSP-md.webp",
+        "type": "file",
+        "md5": "672d8f7d6c88207f9c8fa34d09b3ad2c"
+    },
+    {
+        "path": "/media/posts/32/responsive/Dokumen-Kurikulum-KOSP-sm.webp",
+        "type": "file",
+        "md5": "321f1300894e871db86f1cba29c73d48"
+    },
+    {
+        "path": "/media/posts/32/responsive/Dokumen-Kurikulum-KOSP-xl.webp",
+        "type": "file",
+        "md5": "602d7fb6b75947154420974e03a8adca"
+    },
+    {
+        "path": "/media/posts/32/responsive/Dokumen-Kurikulum-KOSP-xs.webp",
+        "type": "file",
+        "md5": "633ef47c1d893edc3bd3212d604d35a8"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -1342,12 +1392,12 @@
     {
         "path": "panduan-indexnow.html",
         "type": "file",
-        "md5": "a6fa07ad30c8c87c4b4d28ba70d00bdc"
+        "md5": "5df8e8171a315e665171e093f9ade158"
     },
     {
         "path": "panduan-sulingjar.html",
         "type": "file",
-        "md5": "b37319f1486ca447d89ab7a76ccfe911"
+        "md5": "ec08f46c68c6ebd528d8d89227de6464"
     },
     {
         "path": "pantun-banjar.html",
@@ -1377,7 +1427,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "2706f0e703f056d8658a94c369ef0320"
+        "md5": "1d533f2f4c05beafff70ed945968eceb"
     },
     {
         "path": "penulis/nadia",
@@ -1387,7 +1437,7 @@
     {
         "path": "/penulis/nadia/index.html",
         "type": "file",
-        "md5": "af798e1ffac7779dbab8d2ba126b73bb"
+        "md5": "1c2ba0c9ffc5e66dae1ded149f2cbe13"
     },
     {
         "path": "penulis/vina",
@@ -1427,7 +1477,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b895490c58056dcc08f867cf9aa983a1"
+        "md5": "1aebdbbb4ca7c8279adf3bdbd99159b0"
     },
     {
         "path": "sitemap.xsl",
