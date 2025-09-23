@@ -97,7 +97,7 @@
     {
         "path": "cek-hari-libur-2025.html",
         "type": "file",
-        "md5": "2639f38fcb678e1a645c585ea6031647"
+        "md5": "794913fafe4b13239fa24d59a0092ef6"
     },
     {
         "path": "dokumen-kurikulum-kosp-rks.html",
@@ -107,12 +107,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "06efc0a62a71e62693fe9032e88a4fa0"
+        "md5": "468c815af43d1c0fba1b60c0f2805ac2"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f5f58c028e72168f524a0f19eebbce5e"
+        "md5": "feb8debe5cfdd81817af983084beb140"
     },
     {
         "path": "halaman",
@@ -142,17 +142,17 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "6ca04688af54ea76a79821a53d3fd6bb"
+        "md5": "f562ce7c6635ef3b11ecd26fdd02fe88"
     },
     {
         "path": "juknis-bos-2025.html",
         "type": "file",
-        "md5": "685f7662d45d79f5df0ac36766dc7aa6"
+        "md5": "24b5deca51a97827076db53ba4c0ba3c"
     },
     {
         "path": "kalender-pendidikan-2025-2026.html",
         "type": "file",
-        "md5": "c49f2fdd7b8e1508b35a153f7ad5145e"
+        "md5": "280a716f877cfe8daeb41645a51ccb29"
     },
     {
         "path": "kategori",
@@ -202,7 +202,7 @@
     {
         "path": "/kategori/perangkat/index.html",
         "type": "file",
-        "md5": "21081215f678b242699c16e53d9b1092"
+        "md5": "b9d7c8ae1586e3b66b2546e0f9c4c701"
     },
     {
         "path": "kategori/pmm",
@@ -212,7 +212,7 @@
     {
         "path": "/kategori/pmm/index.html",
         "type": "file",
-        "md5": "cd1ca493e2fd5168b2b475790d1fe335"
+        "md5": "b1d4d191e10a1578bf541f1da2359cad"
     },
     {
         "path": "kategori/ppg",
@@ -530,6 +530,76 @@
         "md5": "2078824fe6c2a7a1d06d252ef0a90821"
     },
     {
+        "path": "media/posts/25",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/libur-nasional-dan-cuti-bersama.png",
+        "type": "file",
+        "md5": "04e1af16d1354c3b10c39250c9abd4b3"
+    },
+    {
+        "path": "media/posts/25/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/responsive/libur-nasional-dan-cuti-bersama-md.webp",
+        "type": "file",
+        "md5": "2ce10f13d21a09394cd95b57ed2a6a9c"
+    },
+    {
+        "path": "/media/posts/25/responsive/libur-nasional-dan-cuti-bersama-sm.webp",
+        "type": "file",
+        "md5": "901e5d6d28ce090fbe5f79772bac7be6"
+    },
+    {
+        "path": "/media/posts/25/responsive/libur-nasional-dan-cuti-bersama-xl.webp",
+        "type": "file",
+        "md5": "473960d156582a7f31b34be300d8100e"
+    },
+    {
+        "path": "/media/posts/25/responsive/libur-nasional-dan-cuti-bersama-xs.webp",
+        "type": "file",
+        "md5": "8ba331286de9f100a774ed13f6c42617"
+    },
+    {
+        "path": "media/posts/26",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/kalender-pendidikan-2025.png",
+        "type": "file",
+        "md5": "d1f9f52d532356bd6f256afe57137876"
+    },
+    {
+        "path": "media/posts/26/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/responsive/kalender-pendidikan-2025-md.webp",
+        "type": "file",
+        "md5": "844c14f1f4fd5d089f6f32c18ab5d9da"
+    },
+    {
+        "path": "/media/posts/26/responsive/kalender-pendidikan-2025-sm.webp",
+        "type": "file",
+        "md5": "449ca9d5463d5c1dc90d23cec78c7bd0"
+    },
+    {
+        "path": "/media/posts/26/responsive/kalender-pendidikan-2025-xl.webp",
+        "type": "file",
+        "md5": "a36dda7b9db00e6edddde1226b53f875"
+    },
+    {
+        "path": "/media/posts/26/responsive/kalender-pendidikan-2025-xs.webp",
+        "type": "file",
+        "md5": "8f150c2dc0cd9eded5d6d494308539a8"
+    },
+    {
         "path": "media/posts/27",
         "type": "directory",
         "md5": false
@@ -613,6 +683,41 @@
         "path": "/media/posts/27/responsive/panduan-indexnow_Page4-xs.webp",
         "type": "file",
         "md5": "5e974a4d70e9afaaeda627c57cf2f6ae"
+    },
+    {
+        "path": "media/posts/28",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/pmm-kepala-sekolah.png",
+        "type": "file",
+        "md5": "0bca2bc055c0d39a9084745f9559e5e7"
+    },
+    {
+        "path": "media/posts/28/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/responsive/pmm-kepala-sekolah-md.webp",
+        "type": "file",
+        "md5": "55eacc57af87b578086b0440f416f1b8"
+    },
+    {
+        "path": "/media/posts/28/responsive/pmm-kepala-sekolah-sm.webp",
+        "type": "file",
+        "md5": "613b0e4f511623e8300b56c10a3f6978"
+    },
+    {
+        "path": "/media/posts/28/responsive/pmm-kepala-sekolah-xl.webp",
+        "type": "file",
+        "md5": "49661cf6ddbb548c7eeddc188529413c"
+    },
+    {
+        "path": "/media/posts/28/responsive/pmm-kepala-sekolah-xs.webp",
+        "type": "file",
+        "md5": "1ceca81f42fcab10a72f9c8349246e95"
     },
     {
         "path": "media/posts/29",
@@ -1427,7 +1532,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "1d533f2f4c05beafff70ed945968eceb"
+        "md5": "b73893165a600a851e06dc218a47ded5"
     },
     {
         "path": "penulis/nadia",
@@ -1467,7 +1572,7 @@
     {
         "path": "pmm-kepala-sekolah-program-kerja-2025.html",
         "type": "file",
-        "md5": "70b29cd2705800c953c4e4baaeedb68e"
+        "md5": "df252e9370779888da0f367433eb4e31"
     },
     {
         "path": "robots.txt",
@@ -1477,7 +1582,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "1aebdbbb4ca7c8279adf3bdbd99159b0"
+        "md5": "4ecf2d3fbeea4892ad08b188adf0c085"
     },
     {
         "path": "sitemap.xsl",
