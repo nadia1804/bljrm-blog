@@ -3,7 +3,7 @@
     <title>Belajarium</title>
     <link href="https://belajarium.id/feed.xml" rel="self" />
     <link href="https://belajarium.id" />
-    <updated>2025-12-24T10:34:12+08:00</updated>
+    <updated>2025-12-24T10:39:50+08:00</updated>
     <author>
         <name>Deddy Hidayat</name>
     </author>
@@ -344,25 +344,30 @@
 </table>
 <p>
 <script>
-function filterTable() {
-    const semFilter = document.getElementById('filterSemester').value;
-    const mapelFilter = document.getElementById('filterMapel').value;
-    const table = document.getElementById('materiTable');
-    const rows = table.getElementsByTagName('tbody')[0].getElementsByTagName('tr');
+document.addEventListener('DOMContentLoaded', function() {
+    // Menghubungkan fungsi ke dropdown secara otomatis
+    document.getElementById('filterSemester').addEventListener('change', filterTable);
+    document.getElementById('filterMapel').addEventListener('change', filterTable);
+});
 
-    for (let i = 0; i < rows.length; i++) {
-        const rowSem = rows[i].getAttribute('data-semester');
-        const rowMapel = rows[i].getAttribute('data-mapel');
+function filterTable() {
+    const semFilter = document.getElementById('filterSemester').value.trim();
+    const mapelFilter = document.getElementById('filterMapel').value.trim();
+    const rows = document.querySelectorAll('#materiTable tbody tr');
+
+    rows.forEach(row => {
+        const rowSem = row.getAttribute('data-semester');
+        const rowMapel = row.getAttribute('data-mapel');
         
         const matchSem = semFilter === "" || rowSem === semFilter;
         const matchMapel = mapelFilter === "" || rowMapel === mapelFilter;
 
         if (matchSem && matchMapel) {
-            rows[i].style.display = "";
+            row.style.display = "";
         } else {
-            rows[i].style.display = "none";
+            row.style.display = "none";
         }
-    }
+    });
 }
 </script>
 </p>
