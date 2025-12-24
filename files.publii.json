@@ -95,6 +95,11 @@
         "md5": "c8df4110c4ebd38fbb95093ee7b4e317"
     },
     {
+        "path": "buku-kelas-vi-kurikulum-merdeka-download.html",
+        "type": "file",
+        "md5": "dfd2df63d19287f47c6ebbc68293395e"
+    },
+    {
         "path": "cek-hari-libur-2025.html",
         "type": "file",
         "md5": "794913fafe4b13239fa24d59a0092ef6"
@@ -102,17 +107,17 @@
     {
         "path": "dokumen-kurikulum-kosp-rks.html",
         "type": "file",
-        "md5": "16548e089151d7f29b1a67d5a09aaf07"
+        "md5": "955809989e034f107aa102bd6e86ff1e"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "468c815af43d1c0fba1b60c0f2805ac2"
+        "md5": "9760bf4d661d06e182fc89002ad6364c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "feb8debe5cfdd81817af983084beb140"
+        "md5": "36be7cb7be9f0d25433a6a0ce8fd9c7d"
     },
     {
         "path": "halaman",
@@ -127,7 +132,7 @@
     {
         "path": "/halaman/2/index.html",
         "type": "file",
-        "md5": "9e2a3c886d32c79256716983e57053c4"
+        "md5": "1223ba6183a920ee994509999f1954dc"
     },
     {
         "path": "halaman/3",
@@ -137,12 +142,12 @@
     {
         "path": "/halaman/3/index.html",
         "type": "file",
-        "md5": "d6b8900d1cb48d1e964e47e219070bd3"
+        "md5": "24d66311df02e6472d317e71f67e09d7"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f562ce7c6635ef3b11ecd26fdd02fe88"
+        "md5": "7969a6e568e36ee3bc7b5d6ae2381e4b"
     },
     {
         "path": "juknis-bos-2025.html",
@@ -172,7 +177,7 @@
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "d763ee7e065fb7494d41e1fbc170e3b0"
+        "md5": "8e5cf54e10314e16b6c8024e748bdeae"
     },
     {
         "path": "kategori/kelas-6",
@@ -202,7 +207,7 @@
     {
         "path": "/kategori/perangkat/index.html",
         "type": "file",
-        "md5": "b9d7c8ae1586e3b66b2546e0f9c4c701"
+        "md5": "62e2aac063b9e1f7318ce068313142f9"
     },
     {
         "path": "kategori/pmm",
@@ -283,6 +288,11 @@
         "path": "/kategori/website/index.html",
         "type": "file",
         "md5": "d36166bbc329cb1fa8e1b49a408795af"
+    },
+    {
+        "path": "kd-kelas-6-kurikulum-merdeka-semester-1-dan-2.html",
+        "type": "file",
+        "md5": "ce6cf1309b6b1275e2fc6a49a8fb4583"
     },
     {
         "path": "kumpulan-soal-ppg-2025.html",
@@ -1430,6 +1440,76 @@
         "md5": "633ef47c1d893edc3bd3212d604d35a8"
     },
     {
+        "path": "media/posts/33",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/33/belajarium_cover_kd_tp_cp_kumer.png",
+        "type": "file",
+        "md5": "ab959941d0858c7f5996cd6288fc260e"
+    },
+    {
+        "path": "media/posts/33/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/33/responsive/belajarium_cover_kd_tp_cp_kumer-md.webp",
+        "type": "file",
+        "md5": "3177ca25f1f9cdb9124a891f45da8704"
+    },
+    {
+        "path": "/media/posts/33/responsive/belajarium_cover_kd_tp_cp_kumer-sm.webp",
+        "type": "file",
+        "md5": "d9e4890a1fd3ee560097fe67bfe6803a"
+    },
+    {
+        "path": "/media/posts/33/responsive/belajarium_cover_kd_tp_cp_kumer-xl.webp",
+        "type": "file",
+        "md5": "f23852b87ed3ac65a09a74e08871985f"
+    },
+    {
+        "path": "/media/posts/33/responsive/belajarium_cover_kd_tp_cp_kumer-xs.webp",
+        "type": "file",
+        "md5": "f376680223cdd283dd75a101d30a4b0f"
+    },
+    {
+        "path": "media/posts/34",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/34/belajarium_cover_download_buku_siswa.png",
+        "type": "file",
+        "md5": "869f4bcb944cfdf6c997dd54a5ba4957"
+    },
+    {
+        "path": "media/posts/34/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/34/responsive/belajarium_cover_download_buku_siswa-md.webp",
+        "type": "file",
+        "md5": "05f3fb7fe7f923ec068a3528c1da8281"
+    },
+    {
+        "path": "/media/posts/34/responsive/belajarium_cover_download_buku_siswa-sm.webp",
+        "type": "file",
+        "md5": "00d148b2f4ebc68cd488a10f3c60499e"
+    },
+    {
+        "path": "/media/posts/34/responsive/belajarium_cover_download_buku_siswa-xl.webp",
+        "type": "file",
+        "md5": "3adb08e0e5bf50b5b9bdc416b6e6bcc9"
+    },
+    {
+        "path": "/media/posts/34/responsive/belajarium_cover_download_buku_siswa-xs.webp",
+        "type": "file",
+        "md5": "2ea9fb1c0208bca5f7651dbe27bdffc6"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -1532,7 +1612,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "b73893165a600a851e06dc218a47ded5"
+        "md5": "6999a01a49410668723a31438bd66286"
     },
     {
         "path": "penulis/nadia",
@@ -1582,7 +1662,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "4ecf2d3fbeea4892ad08b188adf0c085"
+        "md5": "14ebee19bface4b566374a0dc1fa4943"
     },
     {
         "path": "sitemap.xsl",
