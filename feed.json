@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://belajarium.id/alamat-terbaru-info-gtk-2026.html",
+            "url": "https://belajarium.id/alamat-terbaru-info-gtk-2026.html",
+            "title": "Alamat terbaru INFO GTK 2026",
+            "summary": "<p>informasi terbaru perubahan alamat info gtk menjadi url yang baru</p>\n",
+            "content_html": "<p>informasi terbaru perubahan alamat info gtk menjadi url yang baru</p>\n\n<p>sebelumnya untuk akses info GTK kita bisa membuka melalui <a href=\"https://info.gtk.dikdasmen.go.id/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"noopener noreferrer\">https://info.gtk.dikdasmen.go.id/</a> sekarang berubah menjadi <a href=\"https://info.gtk.kemendikdasmen.go.id/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"nofollow noopener noreferrer\">https://info.gtk.kemendikdasmen.go.id/</a></p>\n<p>cara akses login sama seperti sebelumnya, masukkan email, kata sandi, dan OTP pada handphone anda (OTP lama masih berlaku). </p>\n<p>kesimpulan : perubahan info GTK ini hanya alamat yang berubah, dari dikdasmen menjadi kemendikdasmen. isi, fitur dan cara login tidak ada perubahan.</p>",
+            "image": "https://belajarium.id/media/posts/35/belajarium_cover_alamat_info_gtk_baru_.png",
+            "author": {
+                "name": "Deddy Hidayat"
+            },
+            "tags": [
+                   "Perangkat"
+            ],
+            "date_published": "2026-01-04T11:41:14+08:00",
+            "date_modified": "2026-01-04T11:50:02+08:00"
+        },
+        {
             "id": "https://belajarium.id/buku-kelas-vi-kurikulum-merdeka-download.html",
             "url": "https://belajarium.id/buku-kelas-vi-kurikulum-merdeka-download.html",
             "title": "Download buku kelas VI kurikulum merdeka",
@@ -155,22 +171,6 @@
             ],
             "date_published": "2025-08-30T20:59:49+08:00",
             "date_modified": "2025-09-23T18:07:03+08:00"
-        },
-        {
-            "id": "https://belajarium.id/cek-hari-libur-2025.html",
-            "url": "https://belajarium.id/cek-hari-libur-2025.html",
-            "title": "Cek hari libur 2025",
-            "summary": "\n  <p>\n    lihat <b>hari libur nasional</b>&nbsp;dan <b>cuti bersama </b>di tahun 2025, yang kami sajikan dengan fitur interaktif\n  </p>\n",
-            "content_html": "\n  <p>\n    lihat <b>hari libur nasional</b>&nbsp;dan <b>cuti bersama </b>di tahun 2025, yang kami sajikan dengan fitur interaktif\n  </p>\n\n\n    <h2 id=\"hari-libur-dan-cuti-bersama-2025\">\n      Hari libur dan cuti bersama 2025\n    </h2>\n<div><br>\n<div class=\"msg msg--info\">\n<svg class=\"li li-info\" width=\"24px\" height=\"24px\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" viewBox=\"0 0 24 24\"><g><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 16v-4M12 8h.01\"/></g></svg> klik pada \"filter bulan\" untuk mencari bulan lain, jika anda menggunakan handphone geser kekiri - kekanan untuk melihat tabel\n</div></div>\n<div><style>\n    .table-kaldik-lapiran1-2025-2026-kontainer {\n      max-width: 100%;\n      overflow-x: auto;\n      padding: 1rem;\n      box-sizing: border-box;\n      margin: auto;\n      font-family: \"Segoe UI\", sans-serif;\n    }\n\n    .table-kaldik-lapiran1-2025-2026-kontainer h2 {\n      text-align: center;\n      font-size: medium;\n    }\n\n    .table-kaldik-lapiran1-2025-2026-isi {\n      width: 100%;\n      border-collapse: collapse;\n      background-color: #fefefe;\n      border: 1px solid #ddd;\n      font-size: 0.95rem;\n    }\n\n    .table-kaldik-lapiran1-2025-2026-isi th,\n    .table-kaldik-lapiran1-2025-2026-isi td {\n      padding: 10px 12px;\n      border: 1px solid #ddd;\n      text-align: left;\n    }\n\n    .table-kaldik-lapiran1-2025-2026-isi th {\n      background-color: #e3f2fd;\n      font-weight: 600;\n    }\n\n    .table-kaldik-lapiran1-2025-2026-isi tr:nth-child(even) {\n      background-color: #f9f9f9;\n    }\n\n    .table-kaldik-lapiran1-2025-2026-isi tr:hover {\n      background-color: #f1f1f1;\n    }\n    @media screen and (max-width: 768px) {\n  .table-kaldik-lapiran1-2025-2026-kontainer {\n    padding: 0.5rem;\n  }\n\n  .table-kaldik-lapiran1-2025-2026-isi {\n    min-width: 600px; /* pastikan tabel tidak mengecil */\n  }\n\n  .table-kaldik-lapiran1-2025-2026-kontainer {\n    overflow-x: auto;\n    -webkit-overflow-scrolling: touch; /* smooth scroll di iOS */\n  }\n}\n  </style>\n</div>\n<div> <div class=\"table-kaldik-lapiran1-2025-2026-kontainer\">\n    <label for=\"dropdown-sort-kaldik\">🔽 Filter Bulan:</label>\n    <select id=\"dropdown-sort-kaldik\" onchange=\"filterKaldikByMonth()\">\n      <option value=\"semua_bulan\">Tampilkan semua bulan</option>\n      <option value=\"januari\">Januari</option>\n      <option value=\"februari\">Februari</option>\n      <option value=\"maret\">Maret</option>\n      <option value=\"april\">April</option>\n      <option value=\"mei\">Mei</option>\n      <option value=\"juni\">Juni</option>\n      <option value=\"juli\">Juli</option>\n      <option value=\"agustus\">Agustus</option>\n      <option value=\"september\">September</option>\n      <option value=\"oktober\">Oktober</option>\n      <option value=\"november\">November</option>\n      <option value=\"desember\">Desember</option>\n    </select>\n\n    <table class=\"table-kaldik-lapiran1-2025-2026-isi\" id=\"table-kaldik-lapiran1-2025-2026\">\n      <thead>\n        <tr>\n          <th>Kegiatan</th>\n          <th>Waktu</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>Awal Tahun Ajaran Baru</td><td>14 Juli 2025</td></tr>\n        <tr><td>MPLS PAUD (TK/KB/TPA)</td><td>14 – 26 Juli 2025</td></tr>\n        <tr><td>MPLS SD dan SMP</td><td>14 – 16 Juli 2025</td></tr>\n        <tr><td>Simulasi ANBK 2025</td><td>21 – 27 Juli 2025</td></tr>\n        <tr><td>Gladi Bersih ANBK Paket C</td><td>28 – 31 Juli 2025</td></tr>\n        <tr><td>Pelaksanaan ANBK Paket C</td><td>1 – 10 Agustus 2025</td></tr>\n        <tr><td>HUT Kemerdekaan RI</td><td>17 Agustus 2025</td></tr>\n        <tr><td>Maulid Nabi Muhammad SAW</td><td>5 September 2025</td></tr>\n        <tr><td>Hari Natal</td><td>25 Desember 2025</td></tr>\n        <tr><td>Tahun Baru Masehi</td><td>1 Januari 2026</td></tr>\n        <tr><td>Tahun Baru Imlek</td><td>17 Februari 2026</td></tr>\n        <tr><td>Hari Raya Nyepi</td><td>19 Maret 2026</td></tr>\n        <tr><td>Hari Raya Idulfitri</td><td>20 – 21 Maret 2026</td></tr>\n        <tr><td>Wafat Yesus Kristus</td><td>3 April 2026</td></tr>\n        <tr><td>Hari Buruh</td><td>1 Mei 2026</td></tr>\n        <tr><td>Hari Raya Waisak</td><td>31 Mei 2026</td></tr>\n        <tr><td>Hari Lahir Pancasila</td><td>1 Juni 2026</td></tr>\n      </tbody>\n    </table>\n  </div>\n\n  <script>\n    function filterKaldikByMonth() {\n      const selectedMonth = document.getElementById(\"dropdown-sort-kaldik\").value;\n      const table = document.getElementById(\"table-kaldik-lapiran1-2025-2026\");\n      const rows = table.querySelectorAll(\"tbody tr\");\n\n      rows.forEach(row => {\n        const tanggal = row.cells[1].textContent.toLowerCase();\n        const match = selectedMonth === \"semua_bulan\" || tanggal.includes(selectedMonth.toLowerCase());\n        row.style.display = match ? \"\" : \"none\";\n      });\n    }\n\n    window.onload = function () {\n      const bulanSekarang = new Date().getMonth(); // 0 = Januari, dst.\n      const dropdown = document.getElementById(\"dropdown-sort-kaldik\");\n      const namaBulan = [\n        \"januari\", \"februari\", \"maret\", \"april\", \"mei\", \"juni\",\n        \"juli\", \"agustus\", \"september\", \"oktober\", \"november\", \"desember\"\n      ];\n\n      dropdown.value = namaBulan[bulanSekarang];\n      filterKaldikByMonth();\n    };\n  </script></div>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    lihat juga : <a href=\"https://belajarium.id/kalender-pendidikan-2025-2026.html\">kalender pendidikan 2025 versi yang lebih lengkap</a>\n  </p>",
-            "image": "https://belajarium.id/media/posts/25/libur-nasional-dan-cuti-bersama.png",
-            "author": {
-                "name": "Deddy Hidayat"
-            },
-            "tags": [
-                   "Perangkat"
-            ],
-            "date_published": "2025-08-30T20:27:55+08:00",
-            "date_modified": "2025-09-23T18:07:19+08:00"
         }
     ]
 }

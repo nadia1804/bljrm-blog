@@ -15,6 +15,11 @@
         "md5": "e7106397c62ec073a8d0d1cfcf937262"
     },
     {
+        "path": "alamat-terbaru-info-gtk-2026.html",
+        "type": "file",
+        "md5": "525634b16a799b049e9f0471c3291a60"
+    },
+    {
         "path": "assets",
         "type": "directory",
         "md5": false
@@ -112,12 +117,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "e1a84fb2823f4d41adc8df1e72dc03fd"
+        "md5": "3a522182c844739f19bebe8a7f4c4b9b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f3e699169ee4564f1d24fd309464c716"
+        "md5": "c4b7d3ca7c6e41b93b4c4794370163a9"
     },
     {
         "path": "halaman",
@@ -132,7 +137,7 @@
     {
         "path": "/halaman/2/index.html",
         "type": "file",
-        "md5": "1223ba6183a920ee994509999f1954dc"
+        "md5": "f49dfeb96761ab9e30b226cd90cee330"
     },
     {
         "path": "halaman/3",
@@ -142,12 +147,12 @@
     {
         "path": "/halaman/3/index.html",
         "type": "file",
-        "md5": "24d66311df02e6472d317e71f67e09d7"
+        "md5": "8560ea00a92683bd37c23aa4f9f895be"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f4e1f2896bc5fef7e4ead09367b3f367"
+        "md5": "457e7ed712e6b8c013263e9571d4b619"
     },
     {
         "path": "juknis-bos-2025.html",
@@ -177,7 +182,7 @@
     {
         "path": "/kategori/index.html",
         "type": "file",
-        "md5": "8e5cf54e10314e16b6c8024e748bdeae"
+        "md5": "e9aaa5083a36d61fecb1bdb991e0ee07"
     },
     {
         "path": "kategori/kelas-6",
@@ -207,7 +212,7 @@
     {
         "path": "/kategori/perangkat/index.html",
         "type": "file",
-        "md5": "1ba8f685747176898113d20fbd675b4f"
+        "md5": "9ec528ee96e32bb986bddf80d61d241d"
     },
     {
         "path": "kategori/pmm",
@@ -1510,6 +1515,41 @@
         "md5": "9fe63f665248078fd82a2c53ea8671bc"
     },
     {
+        "path": "media/posts/35",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/35/belajarium_cover_alamat_info_gtk_baru_.png",
+        "type": "file",
+        "md5": "aa72a8a5f9fb9b8498e1d2401e518faf"
+    },
+    {
+        "path": "media/posts/35/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/35/responsive/belajarium_cover_alamat_info_gtk_baru_-md.webp",
+        "type": "file",
+        "md5": "deb8de4adb3959e638e7f71de1111d57"
+    },
+    {
+        "path": "/media/posts/35/responsive/belajarium_cover_alamat_info_gtk_baru_-sm.webp",
+        "type": "file",
+        "md5": "66cdb7b066c239e413d34bd1f02ab9be"
+    },
+    {
+        "path": "/media/posts/35/responsive/belajarium_cover_alamat_info_gtk_baru_-xl.webp",
+        "type": "file",
+        "md5": "af8672458266422dd1035be0aadfc2e1"
+    },
+    {
+        "path": "/media/posts/35/responsive/belajarium_cover_alamat_info_gtk_baru_-xs.webp",
+        "type": "file",
+        "md5": "caec8128931051096300e8d0645f73e2"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -1612,7 +1652,7 @@
     {
         "path": "/penulis/deddy-hidayat/index.html",
         "type": "file",
-        "md5": "150e1cfe49407c182df4482008ac99cf"
+        "md5": "932de30226ee4b6b0ea1f379db942f1b"
     },
     {
         "path": "penulis/nadia",
@@ -1662,7 +1702,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "51c4467f3ec2f6e275fdb677eb785979"
+        "md5": "3443e6740f06d649f161d815fcddabfd"
     },
     {
         "path": "sitemap.xsl",
